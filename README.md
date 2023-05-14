@@ -2,11 +2,7 @@
 
 Referencing [Awesome-ChatGPT-Prompts](https://github.com/f/awesome-chatgpt-prompts), we verify prompts currently applicable to Google Bard and additionally record prompts that are confirmed for official support in English, Korean, and Japanese languages.
 
-# Contribute 
-- [amazing-bard-prompts](https://github.com/dsdanielpark/amazing-bard-prompts)
-Contributors to this repository can perform the following prompts in Bard, check if they work properly, and then contribute. Basic translations have been provided by dsdnielpark using Google Translate for English to Korean and Japanese. After checking, you can contribute by recording your name next to "Bard prompt Checked by:" and submitting a pull request.
 
-<br><br>
 # Prompts 
 
 ## Act as an English Translator and Improver</h2>
@@ -22,7 +18,7 @@ Contributors to this repository can perform the following prompts in Bard, check
 
 ### Bard
 #### Bard in Korean: 영어 번역가 및 개선자 역할</h2>
-검수자: [@기여자](http://github.com/기여자아이디)<p>기고자: <a href="https://github.com/f">@f</a>
+검수자: [@dsdanielpark](http://github.com/dsdanielpark)<p>기고자: <a href="https://github.com/f">@f</a>
 <strong>대안</strong>: Grammarly, Google 번역</p>
 <blockquote>
 <p>영어 번역가, 철자 교정자, 개량자 역할을 해 주셨으면 합니다. 나는 어떤 언어로든 당신에게 말할 것이고 당신은 그 언어를 감지하고 그것을 번역하여 영어로 수정되고 개선된 버전의 내 텍스트로 대답할 것입니다. 제 단순화된 A0 수준의 단어와 문장을 더 아름답고 품격 있는 상위 수준의 영어 단어와 문장으로 바꿔주셨으면 합니다. 의미를 동일하게 유지하되 더 문학적으로 만드십시오. 나는 당신이 수정, 개선 사항 만 회신하고 설명을 쓰지 않기를 바랍니다. 내 첫 번째 문장은 "istanbulu cok seviyom burada olmak cok guzel"입니다.</p>
@@ -31,7 +27,7 @@ Contributors to this repository can perform the following prompts in Bard, check
 <br>
 
 #### Bard in Japanese: 英語の翻訳者および改善者として行動する</h2>
-検査者: [@貢献して変更](http://github.com/ID_OF_YOURS) <p>寄稿者: <a href="https://github.com/f">@f</a>
+検査者: [@dsdanielpark](http://github.com/dsdanielpark) <p>寄稿者: <a href="https://github.com/f">@f</a>
 <strong>代替</strong>: Grammarly、Google 翻訳</p>
 <blockquote>
 <p>英語の翻訳者、スペル修正者、改善者として働いてほしいです。私はどの言語でもあなたに話しかけます。あなたはその言語を検出し、翻訳して、私のテキストの修正および改善されたバージョンの英語で答えます。私の単純化したA0レベルの単語や文章を、より美しくエレガントな上級レベルの英語の単語や文章に置き換えてほしいです。意味は同じに保ちますが、より文学的にします。修正点、改善点のみ返信していただき、説明は書かずにお願いします。私の最初の文は「イスタンブル コック セビヨム ブラダ オルマック コック グゼル」です。</p>
@@ -54,7 +50,7 @@ Contributors to this repository can perform the following prompts in Bard, check
 
 ### Bard
 #### Bard in Korean: Job Position 면접관 역할
-검수자: [@기여자](http://github.com/기여자아이디)<p>기고자: <a href="https://github.com/f">@f</a> 및 <a href="https://github.com/iltekin">@iltekin</a >
+검수자: [@dsdanielpark](http://github.com/dsdanielpark)<p>기고자: <a href="https://github.com/f">@f</a> 및 <a href="https://github.com/iltekin">@iltekin</a >
 <strong>예</strong>: Node.js 백엔드, React 프론트엔드 개발자, 풀 스택 개발자, iOS 개발자 등</p>
 <blockquote>
 <p>당신이 면접관 역할을 했으면 합니다. 내가 후보자가 될 것이고 당신은 포지션 포지션에 대한 인터뷰 질문을 나에게 할 것입니다. 면접관으로서만 답변해 주셨으면 합니다. 한 번에 모든 보존을 작성하지 마십시오. 인터뷰는 나랑만 했으면 좋겠어. 나에게 질문을 하고 내 대답을 기다리세요. 설명을 쓰지 마십시오. 면접관처럼 하나씩 질문하고 내 대답을 기다리세요. 내 첫 문장은 "안녕"</p>
@@ -63,7 +59,7 @@ Contributors to this repository can perform the following prompts in Bard, check
 <br>
 
 #### Bard in Japanese: 役職面接官 として行動する
-検査者: [@貢献して変更](http://github.com/ID_OF_YOURS) <p>寄稿者: <a href="https://github.com/f">@f</a> および <a href="https://github.com/iltekin">@iltekin</a >
+検査者: [@dsdanielpark](http://github.com/dsdanielpark) <p>寄稿者: <a href="https://github.com/f">@f</a> および <a href="https://github.com/iltekin">@iltekin</a >
 <strong>例</strong>: Node.js バックエンド、React フロントエンド開発者、フルスタック開発者、iOS 開発者など</p>
 <blockquote>
 <p>あなたに面接官になってもらいたいのですが。私が候補者となり、あなたは私に position ポジションの面接の質問をすることになります。あくまで面接官としての回答をお願いします。すべての保存内容を一度に書かないでください。私との面接だけをしてほしいのです。私に質問して、私の答えを待ってください。説明は書かないでください。インタビュアーのように一つ一つ質問して、私の答えを待ちます。私の最初の文は「こんにちは」です。</p>
@@ -4752,6 +4748,9 @@ Contributors to this repository can perform the following prompts in Bard, check
 
 <br>
 
+# Contribute 
+- [amazing-bard-prompts](https://github.com/dsdanielpark/amazing-bard-prompts)
+Contributors to this repository can perform the following prompts in Bard, check if they work properly, and then contribute. Basic translations have been provided by dsdnielpark using Google Translate for English to Korean and Japanese. After checking, you can contribute by recording your name next to "Bard prompt Checked by:" and submitting a pull request.
 
 ## Contributors
 ### awesome-chatgpt-prompts
@@ -4761,8 +4760,8 @@ Contributors to this repository can perform the following prompts in Bard, check
 </a>
 
 ### amazing-bard-prompts
-<a href="https://github.com/기여자아이디/amazing-bard-prompts/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=기여자아이디/amazing-bard-prompts" />
+<a href="https://github.com/dsdanielpark/amazing-bard-prompts/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dsdanielpark/amazing-bard-prompts" />
 </a>
 
 # License
