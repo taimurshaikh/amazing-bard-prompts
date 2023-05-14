@@ -131,7 +131,7 @@ Please be careful when clicking, as it is very long.
     - [Amazing Bard Prompts with Awesome Chatgpt Prompts](#amazing-bard-prompts-with-awesome-chatgpt-prompts)
 - [License](#license)
 
-
+</details>
 
 # Prompts 
 
