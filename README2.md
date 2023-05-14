@@ -1,5 +1,7 @@
 <p align="center"><h1>Amazing Bard Prompts VOL.2</h1></p>
 
+<a href="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/README2.md"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/guardians_of_galaxy_5.gif" height="210px" width="540px"></a>
+
 The interactive artificial intelligence [Google-Bard](https://bard.google.com/) released by [Google AI](https://ai.google/) officially supports `English`, `Korean`, and `Japanese`. Therefore, we share prompts for better use of Google Bard. [Amazing-Bard-Prompts](https://github.com/dsdanielpark/amazing-bard-prompts) is a fork of [Awesome-ChatGPT-Prompts](https://github.com/f/awesome-chatgpt-prompts) and translated with [Google's Translate Engine](https://translate.google.co.kr/?hl=ko). Contributors can modify [CSV files](https://github.com/dsdanielpark/amazing-bard-prompts/tree/main/bard_prompts) to edit, review, and suggest prompts that are suitable for Google Bard. I hope there will be more prompts for Google Bard in the future.
 
 - [Amazing Bard Prompts VOL.1](https://github.com/dsdanielpark/amazing-bard-prompts)
@@ -22,8 +24,8 @@ Please modify the contents in the [bard_prompts folder](https://github.com/dsdan
 <br>
 
 - 한국어 가이드 <br>
-  본 레포지토리를 포크하신 뒤, [bard_prompts_korean.csv](https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/bard_prompts/bard_prompts_korean.csv) 파일에서 프롬프트가 정상적으로 작동하는지 검수하세요. CSV 파일의 내용을 바탕으로 markdown파일은 자동으로 생성되며, 기여자는 여러명이 될 수 있습니다. 
-  - [bard_prompts folder](https://github.com/dsdanielpark/amazing-bard-prompts/tree/main/bard_prompts) 내에 존재하는 csv 파일을 열어 프롬프트를 검수 혹은 수정하세요.
+  본 레포지토리를 포크하신 뒤, [bard_prompts_korean.csv](https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/bard_prompts/bard_prompts_korean.csv) 파일에서 프롬프트가 정상적으로 작동하는지 검수해주세요. CSV 파일의 내용을 바탕으로 markdown파일은 자동으로 생성되며, 기여자는 여러명이 될 수 있습니다. 
+  - [bard_prompts folder](https://github.com/dsdanielpark/amazing-bard-prompts/tree/main/bard_prompts) 내에 존재하는 csv 파일을 열어 프롬프트를 검수 혹은 수정해주세요.
   - CSV 파일 컬럼에 존재하는 contributor_github 컬럼에 기여자의 깃허브 주소를 적어주세요. 
   - 수정한 CSV file을 Pull Request 해주세요. 
   
