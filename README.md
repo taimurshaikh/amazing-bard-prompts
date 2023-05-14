@@ -29,7 +29,7 @@ Please modify the contents in the [bard_prompts folder](https://github.com/dsdan
   
 <br>
 
-- 日本語 <br>
+- 日本語ガイド <br>
   このリポジトリをフォークしてから、[bard_prompts_japanese.csv](https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/bard_prompts/bard_prompts_japanese.csv)ファイルでプロンプトが正常に動作しているかどうかを確認してください。<br>
   CSVファイルの内容に基づいてmarkdownファイルは自動的に作成され、貢献者は複数の人になることができます。
   - [bard_prompts folder](https://github.com/dsdanielpark/amazing-bard-prompts/tree/main/bard_prompts)内に存在するCSVファイルを開き、プロンプトを検収または修正します。
