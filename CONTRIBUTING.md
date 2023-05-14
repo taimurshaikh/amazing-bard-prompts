@@ -9,6 +9,7 @@ The following guidelines should be followed when making any open-source contribu
 - [ ] Before submitting a pull request, ensure additions/edits are aligned with the overall repo organization.
 - [ ] Be sure changes are compatible with the repository's license.
 - [ ] In case of conflicts, provide helpful explanations regarding your proposed changes so that they can be approved by repo owners.
+- [ ] For amazing-bard-prompts, please make sure to check the functionality in Bard for English, Korean, and Japanese before making any modifications.
 
 ## New Prompt Guidelines
 To add a new prompt to this repository, a contributor should take the following steps (in their personal fork):
