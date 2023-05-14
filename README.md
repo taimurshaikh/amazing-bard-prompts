@@ -739,5 +739,6 @@ Contributed by [@goeksu](https://github.com/goeksu)
 <a href="https://github.com/dsdanielpark/amazing-bard-prompts/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dsdanielpark/amazing-bard-prompts" />
 </a>
+
 # License
 CC-0
