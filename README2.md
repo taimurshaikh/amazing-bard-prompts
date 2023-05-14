@@ -4,8 +4,8 @@ Referencing [Awesome-ChatGPT-Prompts](https://github.com/f/awesome-chatgpt-promp
 
 <br>
 
-[Amazing Bard Prompts VOL.1](https://github.com/dsdanielpark/amazing-bard-prompts)
-[Amazing Bard Prompts VOL.2](https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/README2.md)
+- [Amazing Bard Prompts VOL.1](https://github.com/dsdanielpark/amazing-bard-prompts)
+- [Amazing Bard Prompts VOL.2](https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/README2.md)
 
 # Bard Prompts CSV files
 - Korean: https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/bard_prompts/bard_prompts_korean.csv
