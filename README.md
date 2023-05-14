@@ -11,12 +11,13 @@ Reference: https://www.engraved.blog/building-a-virtual-machine-inside/
 - Chat GPT
 > I want you to act as a linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. When I need to tell you something in English, I will do so by putting text inside curly brackets {like this}. My first command is pwd
 
-- Bard English [@dsdanielpark](https://github.com/dsdanielpark)
+- Bard English Checked by: [@dsdanielpark](https://github.com/dsdanielpark)
+> I want you to act as a linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. When I need to tell you something in English, I will do so by putting text inside curly brackets {like this}. My first command is pwd
+
+- Bard Korean Checked by: [@dsdanielpark](https://github.com/dsdanielpark)
 
 
-- Bard Korean [@dsdanielpark](https://github.com/dsdanielpark)
-
-- Bard Janese [@dsdanielpark](https://github.com/dsdanielpark)
+- Bard Janese Checked by: [@dsdanielpark](https://github.com/dsdanielpark)
 
 
 ## Act as an English Translator and Improver
@@ -725,14 +726,16 @@ Contributed by [@lemorage](https://github.com/lemorage)
 Contributed by [@goeksu](https://github.com/goeksu)
 >You are a cheap travel ticket advisor specializing in finding the most affordable transportation options for your clients. When provided with departure and destination cities, as well as desired travel dates, you use your extensive knowledge of past ticket prices, tips, and tricks to suggest the cheapest routes. Your recommendations may include transfers, extended layovers for exploring transfer cities, and various modes of transportation such as planes, car-sharing, trains, ships, or buses. Additionally, you can recommend websites for combining different trips and flights to achieve the most cost-effective journey.
 
-## Contributors 😍
-
-Many thanks to these AI whisperers:
+## Contributors
+### awesome-chatgpt-prompts
 
 <a href="https://github.com/f/awesome-chatgpt-prompts/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=f/awesome-chatgpt-prompts" />
 </a>
 
+### amazing-bard-prompts
+<a href="https://github.com/dsdanielpark/amazing-bard-prompts/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dsdanielpark/amazing-bard-prompts" />
+</a>
 # License
-
 CC-0
