@@ -4,6 +4,7 @@ Referencing [Awesome-ChatGPT-Prompts](https://github.com/f/awesome-chatgpt-promp
 
 <br>
 
+[Amazing Bard Prompts VOL.1](https://github.com/dsdanielpark/amazing-bard-prompts)
 [Amazing Bard Prompts VOL.2](https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/README2.md)
 
 # Bard Prompts CSV files
@@ -15,7 +16,7 @@ Referencing [Awesome-ChatGPT-Prompts](https://github.com/f/awesome-chatgpt-promp
 Please modify the contents in the [bard_prompts folder]("./bard_prompts") only.
 
 - English guide <br>
-  fter forking this repository, inspect the bard_prompts_english csv file to see if the prompt works normally. A markdown file is automatically generated based on the content of the CSV file, and multiple contributors may be involved.
+  fter forking this repository, inspect the [bard_prompts_english.csv](https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/bard_prompts/bard_prompts_english.csv) file to see if the prompt works normally. A markdown file is automatically generated based on the content of the CSV file, and multiple contributors may be involved.
   - Open the CSV file in bard_prompts and inspect or modify the prompt.
   - Enter the contributor's Github address in the contributor_github column of the CSV file column.
   - Please submit a pull request for the modified CSV file.
@@ -23,7 +24,7 @@ Please modify the contents in the [bard_prompts folder]("./bard_prompts") only.
 <br>
 
 - 한국어 가이드 <br>
-  본 레포지토리를 포크하신 뒤, bard_prompts_korean.csv 파일에서 프롬프트가 정상적으로 작동하는지 검수하세요. CSV 파일의 내용을 바탕으로 markdown파일은 자동으로 생성되며, 기여자는 여러명이 될 수 있습니다. 
+  본 레포지토리를 포크하신 뒤, [bard_prompts_korean.csv](https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/bard_prompts/bard_prompts_korean.csv) 파일에서 프롬프트가 정상적으로 작동하는지 검수하세요. CSV 파일의 내용을 바탕으로 markdown파일은 자동으로 생성되며, 기여자는 여러명이 될 수 있습니다. 
   - bard_prompts 내에 존재하는 csv 파일을 열어 프롬프트를 검수 혹은 수정하세요.
   - CSV 파일 컬럼에 존재하는 contributor_github 컬럼에 기여자의 깃허브 주소를 적어주세요. 
   - 수정한 CSV file을 Pull Request 해주세요. 
@@ -31,11 +32,12 @@ Please modify the contents in the [bard_prompts folder]("./bard_prompts") only.
 <br>
 
 - 日本語 <br>
-  このリポジトリをフォークしてから、bard_prompts_japanese.csvファイルでプロンプトが正常に動作しているかどうかを確認してください。<br>
+  このリポジトリをフォークしてから、[bard_prompts_japanese.csv](https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/bard_prompts/bard_prompts_japanese.csv)ファイルでプロンプトが正常に動作しているかどうかを確認してください。<br>
   CSVファイルの内容に基づいてmarkdownファイルは自動的に作成され、貢献者は複数の人になることができます。
   - bard_prompts内に存在するCSVファイルを開き、プロンプトを検収または修正します。
   - CSVファイル列に存在するcontributor_github列に、貢献者のFitHubアドレスを書き留めます。
   - 修正したCSVファイルをプルリクエストしてください。
+
   
 
 # Contents
