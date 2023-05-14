@@ -1,6 +1,6 @@
 <p align="center"><h1>Awesome Bard Prompts</h1></p>
 
-Referencing Awesome-ChatGPT-Prompts, we verify prompts currently applicable to Google Bard and additionally record prompts that are confirmed for official support in English, Korean, and Japanese languages.
+Referencing [Awesome-ChatGPT-Prompts](https://github.com/f/awesome-chatgpt-prompts), we verify prompts currently applicable to Google Bard and additionally record prompts that are confirmed for official support in English, Korean, and Japanese languages.
 
 # Prompts
 
