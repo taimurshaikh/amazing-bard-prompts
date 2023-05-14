@@ -29,13 +29,12 @@ CSV 파일의 내용을 바탕으로 markdown파일은 자동으로 생성되며
 <br>
 
 - 日本語 <br>
-このリポジトリをフォークしてから、bard_prompts_japanese.csvファイルでプロンプトが正常に動作しているかどうかを確認してください。<br>
-CSVファイルの内容に基づいてmarkdownファイルは自動的に作成され、貢献者は複数の人になることができます。
-- bard_prompts内に存在するCSVファイルを開き、プロンプトを検収または修正します。
-- CSVファイル列に存在するcontributor_github列に、貢献者のFitHubアドレスを書き留めます。
-- 修正したCSVファイルをプルリクエストしてください。
+  このリポジトリをフォークしてから、bard_prompts_japanese.csvファイルでプロンプトが正常に動作しているかどうかを確認してください。<br>
+  CSVファイルの内容に基づいてmarkdownファイルは自動的に作成され、貢献者は複数の人になることができます。
+  - bard_prompts内に存在するCSVファイルを開き、プロンプトを検収または修正します。
+  - CSVファイル列に存在するcontributor_github列に、貢献者のFitHubアドレスを書き留めます。
+  - 修正したCSVファイルをプルリクエストしてください。
   
-
 
 # Contents
 Please be careful when clicking, as it is very long.
