@@ -4,8 +4,8 @@ Referencing [Awesome-ChatGPT-Prompts](https://github.com/f/awesome-chatgpt-promp
 
 <br>
 
-[Amazing Bard Prompts VOL.1](https://github.com/dsdanielpark/amazing-bard-prompts)
-[Amazing Bard Prompts VOL.2](https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/README2.md)
+- [Amazing Bard Prompts VOL.1](https://github.com/dsdanielpark/amazing-bard-prompts)
+- [Amazing Bard Prompts VOL.2](https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/README2.md)
 
 # Bard Prompts CSV files
 - Korean: https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/bard_prompts/bard_prompts_korean.csv
@@ -13,7 +13,7 @@ Referencing [Awesome-ChatGPT-Prompts](https://github.com/f/awesome-chatgpt-promp
 - Japanese: https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/bard_prompts/bard_prompts_japanese.csv
 
 # Contribute to [Amazing-Bard-Prompts](https://github.com/dsdanielpark/amazing-bard-prompts)
-Please modify the contents in the [bard_prompts folder]("./bard_prompts") only.
+Please modify the contents in the [bard_prompts folder](https://github.com/dsdanielpark/amazing-bard-prompts/tree/main/bard_prompts) only.
 
 - English guide <br>
   fter forking this repository, inspect the [bard_prompts_english.csv](https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/bard_prompts/bard_prompts_english.csv) file to see if the prompt works normally. A markdown file is automatically generated based on the content of the CSV file, and multiple contributors may be involved.
