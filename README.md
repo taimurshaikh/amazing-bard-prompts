@@ -2,6 +2,10 @@
 
 Referencing [Awesome-ChatGPT-Prompts](https://github.com/f/awesome-chatgpt-prompts), we verify prompts currently applicable to Google Bard and additionally record prompts that are confirmed for official support in English, Korean, and Japanese languages.
 
+# Contribute to [amazing-bard-prompts](https://github.com/dsdanielpark/amazing-bard-prompts)
+
+Contributors to this repository can perform the following prompts in Bard, check if they work properly, and then contribute. Basic translations have been provided by dsdnielpark using Google Translate for English to Korean and Japanese. After checking, you can contribute by recording your name next to "Bard prompt Checked by:" and submitting a pull request.
+
 # Prompts
 
 ## Act as a Linux Terminal
