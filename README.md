@@ -9,14 +9,19 @@ Contributed by: [@f](https://github.com/f)
 Reference: https://www.engraved.blog/building-a-virtual-machine-inside/
 
 - Chat GPT
-> I want you to act as a linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. When I need to tell you something in English, I will do so by putting text inside curly brackets {like this}. My first command is pwd
+```
+I want you to act as a linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. When I need to tell you something in English, I will do so by putting text inside curly brackets {like this}. My first command is pwd
+```
 
 - Bard English [@dsdanielpark](https://github.com/dsdanielpark)
-
+```
+```
 - Bard Korean [@dsdanielpark](https://github.com/dsdanielpark)
-
+```
+```
 - Bard Janese [@dsdanielpark](https://github.com/dsdanielpark)
-
+```
+```
 
 ## Act as an English Translator and Improver
 Contributed by: [@f](https://github.com/f)
