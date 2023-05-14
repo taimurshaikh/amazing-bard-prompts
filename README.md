@@ -1,5 +1,7 @@
 <p align="center"><h1>Amazing Bard Prompts VOL.1</h1></p>
 
+![](https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/guardians_of_galaxy_3.gif)
+
 The interactive artificial intelligence [Google-Bard](https://bard.google.com/) released by [Google AI](https://ai.google/) officially supports `English`, `Korean`, and `Japanese`. Therefore, we share prompts for better use of Google Bard. [Amazing-Bard-Prompts](https://github.com/dsdanielpark/amazing-bard-prompts) is a fork of [Awesome-ChatGPT-Prompts](https://github.com/f/awesome-chatgpt-prompts) and translated with [Google's Translate Engine](https://translate.google.co.kr/?hl=ko). Contributors can modify [CSV files](https://github.com/dsdanielpark/amazing-bard-prompts/tree/main/bard_prompts) to edit, review, and suggest prompts that are suitable for Google Bard. I hope there will be more prompts for Google Bard in the future.
 
 - [Amazing Bard Prompts VOL.1](https://github.com/dsdanielpark/amazing-bard-prompts)
