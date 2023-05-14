@@ -10,822 +10,822 @@ Please be careful when clicking, as it is very long.
 
 - [Contents](#contents)
 - [Prompts](#prompts)
-  - [:white\_check\_mark: Act as an English Translator and Improver](#white_check_mark-act-as-an-english-translator-and-improver)
+  - [# Act as an English Translator and Improver](#-act-as-an-english-translator-and-improver)
     - [ Chat GPT](#-chat-gpt)
     - [ Google Bard](#-google-bard)
       - [Bard in Korean: 영어 번역가 및 개선자 역할](#bard-in-korean-영어-번역가-및-개선자-역할)
       - [Bard in Japanese: 英語の翻訳者および改善者として行動する](#bard-in-japanese-英語の翻訳者および改善者として行動する)
-  - [:white\_check\_mark: Act as position Interviewer](#white_check_mark-act-as-position-interviewer)
+  - [# Act as position Interviewer](#-act-as-position-interviewer)
     - [ Chat GPT](#-chat-gpt-1)
     - [Bard](#bard)
     - [ Chat GPT](#-chat-gpt-2)
       - [Bard in Korean: Job Position 면접관 역할](#bard-in-korean-job-position-면접관-역할)
       - [Bard in Japanese: 役職面接官 として行動する](#bard-in-japanese-役職面接官-として行動する)
-  - [:white\_check\_mark: Act as a JavaScript Console](#white_check_mark-act-as-a-javascript-console)
+  - [# Act as a JavaScript Console](#-act-as-a-javascript-console)
     - [ Chat GPT](#-chat-gpt-3)
     - [ Google Bard](#-google-bard-1)
       - [Bard in Korean: 자바스크립트 콘솔로 작동](#bard-in-korean-자바스크립트-콘솔로-작동)
       - [Bard in Japanese: JavaScript コンソールとして機能する](#bard-in-japanese-javascript-コンソールとして機能する)
-  - [:white\_check\_mark: Act as an Excel Sheet](#white_check_mark-act-as-an-excel-sheet)
+  - [# Act as an Excel Sheet](#-act-as-an-excel-sheet)
     - [ Chat GPT](#-chat-gpt-4)
     - [ Google Bard](#-google-bard-2)
       - [Bard in Korean: Excel 시트로 작동](#bard-in-korean-excel-시트로-작동)
       - [Bard in Japanese: Excel シートとして機能する](#bard-in-japanese-excel-シートとして機能する)
-  - [:white\_check\_mark: Act as a English Pronunciation Helper](#white_check_mark-act-as-a-english-pronunciation-helper)
+  - [# Act as a English Pronunciation Helper](#-act-as-a-english-pronunciation-helper)
     - [ Chat GPT](#-chat-gpt-5)
     - [ Google Bard](#-google-bard-3)
       - [Bard in Korean: 영어 발음 도우미 역할](#bard-in-korean-영어-발음-도우미-역할)
       - [Bard in Japanese: 英語の発音ヘルパーとして行動する](#bard-in-japanese-英語の発音ヘルパーとして行動する)
-  - [:white\_check\_mark: Act as a Spoken English Teacher and Improver](#white_check_mark-act-as-a-spoken-english-teacher-and-improver)
+  - [# Act as a Spoken English Teacher and Improver](#-act-as-a-spoken-english-teacher-and-improver)
     - [ Chat GPT](#-chat-gpt-6)
     - [ Google Bard](#-google-bard-4)
       - [Bard in Korean: 말하기 영어 교사 및 개선자 역할](#bard-in-korean-말하기-영어-교사-및-개선자-역할)
       - [Bard in Japanese: スピーキング英語の教師および上達者として行動する](#bard-in-japanese-スピーキング英語の教師および上達者として行動する)
-  - [:white\_check\_mark: Act as a Travel Guide](#white_check_mark-act-as-a-travel-guide)
+  - [# Act as a Travel Guide](#-act-as-a-travel-guide)
     - [ Chat GPT](#-chat-gpt-7)
     - [ Google Bard](#-google-bard-5)
       - [Bard in Korean: 여행 가이드 역할](#bard-in-korean-여행-가이드-역할)
       - [Bard in Japanese: 旅行ガイドとして行動する](#bard-in-japanese-旅行ガイドとして行動する)
-  - [:white\_check\_mark: Act as a Plagiarism Checker](#white_check_mark-act-as-a-plagiarism-checker)
+  - [# Act as a Plagiarism Checker](#-act-as-a-plagiarism-checker)
     - [ Chat GPT](#-chat-gpt-8)
     - [Bard](#bard-1)
     - [ Chat GPT](#-chat-gpt-9)
       - [Bard in Korean: 표절 검사자 역할](#bard-in-korean-표절-검사자-역할)
       - [Bard in Japanese: 盗作チェッカーとして行動する](#bard-in-japanese-盗作チェッカーとして行動する)
-  - [:white\_check\_mark: Act as 'Character' from 'Movie/Book/Anything'](#white_check_mark-act-as-character-from-moviebookanything)
+  - [# Act as 'Character' from 'Movie/Book/Anything'](#-act-as-character-from-moviebookanything)
     - [ Chat GPT](#-chat-gpt-10)
     - [ Google Bard](#-google-bard-6)
       - [Bard in Korean: 'Movie/Book/Anything'에서 '캐릭터' 역할](#bard-in-korean-moviebookanything에서-캐릭터-역할)
       - [Bard in Japanese: 「映画/本/何でも」の「キャラクター」として行動](#bard-in-japanese-映画本何でものキャラクターとして行動)
-  - [:white\_check\_mark: Act as an Advertiser](#white_check_mark-act-as-an-advertiser)
+  - [# Act as an Advertiser](#-act-as-an-advertiser)
     - [ Chat GPT](#-chat-gpt-11)
     - [ Google Bard](#-google-bard-7)
       - [Bard in Korean: 광고주 역할](#bard-in-korean-광고주-역할)
       - [Bard in Japanese: 広告主として行動する](#bard-in-japanese-広告主として行動する)
-  - [:white\_check\_mark: Act as a Storyteller](#white_check_mark-act-as-a-storyteller)
+  - [# Act as a Storyteller](#-act-as-a-storyteller)
     - [ Chat GPT](#-chat-gpt-12)
     - [ Google Bard](#-google-bard-8)
       - [Bard in Korean: 스토리텔러 역할](#bard-in-korean-스토리텔러-역할)
       - [Bard in Japanese: ストーリーテラーとして行動する](#bard-in-japanese-ストーリーテラーとして行動する)
-  - [:white\_check\_mark: Act as a Football Commentator](#white_check_mark-act-as-a-football-commentator)
+  - [# Act as a Football Commentator](#-act-as-a-football-commentator)
     - [ Chat GPT](#-chat-gpt-13)
     - [ Google Bard](#-google-bard-9)
       - [Bard in Korean: 축구 해설자로 활동](#bard-in-korean-축구-해설자로-활동)
       - [Bard in Japanese: サッカー解説者として活動](#bard-in-japanese-サッカー解説者として活動)
-  - [:white\_check\_mark: Act as a Stand-up Comedian](#white_check_mark-act-as-a-stand-up-comedian)
+  - [# Act as a Stand-up Comedian](#-act-as-a-stand-up-comedian)
     - [ Chat GPT](#-chat-gpt-14)
     - [ Google Bard](#-google-bard-10)
       - [Bard in Korean: 스탠드업 코미디언으로 활동](#bard-in-korean-스탠드업-코미디언으로-활동)
       - [Bard in Japanese: スタンドアップコメディアンとして活動する](#bard-in-japanese-スタンドアップコメディアンとして活動する)
-  - [:white\_check\_mark: Act as a Motivational Coach](#white_check_mark-act-as-a-motivational-coach)
+  - [# Act as a Motivational Coach](#-act-as-a-motivational-coach)
     - [ Chat GPT](#-chat-gpt-15)
     - [ Google Bard](#-google-bard-11)
       - [Bard in Korean: 동기 부여 코치 역할](#bard-in-korean-동기-부여-코치-역할)
       - [Bard in Japanese: モチベーションを高めるコーチとして行動する](#bard-in-japanese-モチベーションを高めるコーチとして行動する)
-  - [:white\_check\_mark: Act as a Composer](#white_check_mark-act-as-a-composer)
+  - [# Act as a Composer](#-act-as-a-composer)
     - [ Chat GPT](#-chat-gpt-16)
     - [ Google Bard](#-google-bard-12)
       - [Bard in Korean: 작곡가로 활동](#bard-in-korean-작곡가로-활동)
       - [Bard in Japanese: 作曲家として活動](#bard-in-japanese-作曲家として活動)
-  - [:white\_check\_mark: Act as a Debater](#white_check_mark-act-as-a-debater)
+  - [# Act as a Debater](#-act-as-a-debater)
     - [ Chat GPT](#-chat-gpt-17)
     - [ Google Bard](#-google-bard-13)
       - [Bard in Korean: 토론자 역할](#bard-in-korean-토론자-역할)
       - [Bard in Japanese: 討論者として行動する](#bard-in-japanese-討論者として行動する)
-  - [:white\_check\_mark: Act as a Debate Coach](#white_check_mark-act-as-a-debate-coach)
+  - [# Act as a Debate Coach](#-act-as-a-debate-coach)
     - [ Chat GPT](#-chat-gpt-18)
     - [ Google Bard](#-google-bard-14)
       - [Bard in Korean: 토론 코치 역할](#bard-in-korean-토론-코치-역할)
       - [Bard in Japanese: ディベートコーチとして活動する](#bard-in-japanese-ディベートコーチとして活動する)
-  - [:white\_check\_mark: Act as a Screenwriter](#white_check_mark-act-as-a-screenwriter)
+  - [# Act as a Screenwriter](#-act-as-a-screenwriter)
     - [ Chat GPT](#-chat-gpt-19)
     - [Bard](#bard-2)
     - [ Chat GPT](#-chat-gpt-20)
       - [Bard in Korean: 시나리오 작가로 활동](#bard-in-korean-시나리오-작가로-활동)
       - [Bard in Japanese: 脚本家として活動](#bard-in-japanese-脚本家として活動)
-  - [:white\_check\_mark: Act as a Novelist](#white_check_mark-act-as-a-novelist)
+  - [# Act as a Novelist](#-act-as-a-novelist)
     - [ Chat GPT](#-chat-gpt-21)
     - [ Google Bard](#-google-bard-15)
       - [Bard in Korean: 소설가로 활동](#bard-in-korean-소설가로-활동)
       - [Bard in Japanese: 小説家として活動](#bard-in-japanese-小説家として活動)
-  - [:white\_check\_mark: Act as a Movie Critic](#white_check_mark-act-as-a-movie-critic)
+  - [# Act as a Movie Critic](#-act-as-a-movie-critic)
     - [ Chat GPT](#-chat-gpt-22)
     - [Bard](#bard-3)
     - [ Chat GPT](#-chat-gpt-23)
       - [Bard in Korean: 영화 평론가 역할](#bard-in-korean-영화-평론가-역할)
       - [Bard in Japanese: 映画評論家として活動](#bard-in-japanese-映画評論家として活動)
-  - [:white\_check\_mark: Act as a Relationship Coach](#white_check_mark-act-as-a-relationship-coach)
+  - [# Act as a Relationship Coach](#-act-as-a-relationship-coach)
     - [ Chat GPT](#-chat-gpt-24)
     - [ Google Bard](#-google-bard-16)
       - [Bard in Korean: 관계 코치 역할](#bard-in-korean-관계-코치-역할)
       - [Bard in Japanese: 人間関係コーチとして行動する](#bard-in-japanese-人間関係コーチとして行動する)
-  - [:white\_check\_mark: Act as a Poet](#white_check_mark-act-as-a-poet)
+  - [# Act as a Poet](#-act-as-a-poet)
     - [ Chat GPT](#-chat-gpt-25)
     - [ Google Bard](#-google-bard-17)
       - [Bard in Korean: 시인으로 활동](#bard-in-korean-시인으로-활동)
       - [Bard in Japanese: 詩人として行動する](#bard-in-japanese-詩人として行動する)
-  - [:white\_check\_mark: Act as a Rapper](#white_check_mark-act-as-a-rapper)
+  - [# Act as a Rapper](#-act-as-a-rapper)
     - [ Chat GPT](#-chat-gpt-26)
     - [ Google Bard](#-google-bard-18)
       - [Bard in Korean: 랩퍼로 활동](#bard-in-korean-랩퍼로-활동)
       - [Bard in Japanese: ラッパーとして活動](#bard-in-japanese-ラッパーとして活動)
-  - [:white\_check\_mark: Act as a Motivational Speaker](#white_check_mark-act-as-a-motivational-speaker)
+  - [# Act as a Motivational Speaker](#-act-as-a-motivational-speaker)
     - [ Chat GPT](#-chat-gpt-27)
     - [ Google Bard](#-google-bard-19)
       - [Bard in Korean: 동기를 부여하는 연사 역할](#bard-in-korean-동기를-부여하는-연사-역할)
       - [Bard in Japanese: モチベーションを高めるスピーカーとして行動する](#bard-in-japanese-モチベーションを高めるスピーカーとして行動する)
-  - [:white\_check\_mark: Act as a Philosophy Teacher](#white_check_mark-act-as-a-philosophy-teacher)
+  - [# Act as a Philosophy Teacher](#-act-as-a-philosophy-teacher)
     - [ Chat GPT](#-chat-gpt-28)
     - [ Google Bard](#-google-bard-20)
       - [Bard in Korean: 철학 교사 역할](#bard-in-korean-철학-교사-역할)
       - [Bard in Japanese: 哲学の教師として行動する](#bard-in-japanese-哲学の教師として行動する)
-  - [:white\_check\_mark: Act as a Philosopher](#white_check_mark-act-as-a-philosopher)
+  - [# Act as a Philosopher](#-act-as-a-philosopher)
     - [ Chat GPT](#-chat-gpt-29)
     - [ Google Bard](#-google-bard-21)
       - [Bard in Korean: 철학자로 활동](#bard-in-korean-철학자로-활동)
       - [Bard in Japanese: 哲学者として行動する](#bard-in-japanese-哲学者として行動する)
-  - [:white\_check\_mark: Act as a Math Teacher](#white_check_mark-act-as-a-math-teacher)
+  - [# Act as a Math Teacher](#-act-as-a-math-teacher)
     - [ Chat GPT](#-chat-gpt-30)
     - [ Google Bard](#-google-bard-22)
       - [Bard in Korean: 수학 교사 역할](#bard-in-korean-수학-교사-역할)
       - [Bard in Japanese: 数学教師として活動](#bard-in-japanese-数学教師として活動)
-  - [:white\_check\_mark: Act as an AI Writing Tutor](#white_check_mark-act-as-an-ai-writing-tutor)
+  - [# Act as an AI Writing Tutor](#-act-as-an-ai-writing-tutor)
     - [ Chat GPT](#-chat-gpt-31)
     - [ Google Bard](#-google-bard-23)
       - [Bard in Korean: AI 작문 강사 역할](#bard-in-korean-ai-작문-강사-역할)
       - [Bard in Japanese: AI ライティングの講師として活動](#bard-in-japanese-ai-ライティングの講師として活動)
-  - [:white\_check\_mark: Act as a UX/UI Developer](#white_check_mark-act-as-a-uxui-developer)
+  - [# Act as a UX/UI Developer](#-act-as-a-uxui-developer)
     - [ Chat GPT](#-chat-gpt-32)
     - [ Google Bard](#-google-bard-24)
       - [Bard in Korean: UX/UI 개발자로 활동](#bard-in-korean-uxui-개발자로-활동)
       - [Bard in Japanese: UX/UI 開発者として活動する](#bard-in-japanese-uxui-開発者として活動する)
-  - [:white\_check\_mark: Act as a Cyber Security Specialist](#white_check_mark-act-as-a-cyber-security-specialist)
+  - [# Act as a Cyber Security Specialist](#-act-as-a-cyber-security-specialist)
     - [ Chat GPT](#-chat-gpt-33)
     - [ Google Bard](#-google-bard-25)
       - [Bard in Korean: 사이버 보안 전문가 역할](#bard-in-korean-사이버-보안-전문가-역할)
       - [Bard in Japanese: サイバーセキュリティスペシャリストとして行動する](#bard-in-japanese-サイバーセキュリティスペシャリストとして行動する)
-  - [:white\_check\_mark: Act as a Recruiter](#white_check_mark-act-as-a-recruiter)
+  - [# Act as a Recruiter](#-act-as-a-recruiter)
     - [ Chat GPT](#-chat-gpt-34)
     - [ Google Bard](#-google-bard-26)
       - [Bard in Korean: 채용 담당자 역할](#bard-in-korean-채용-담당자-역할)
       - [Bard in Japanese: 採用担当者として行動する](#bard-in-japanese-採用担当者として行動する)
-  - [:white\_check\_mark: Act as a Life Coach](#white_check_mark-act-as-a-life-coach)
+  - [# Act as a Life Coach](#-act-as-a-life-coach)
     - [ Chat GPT](#-chat-gpt-35)
     - [Bard](#bard-4)
     - [ Chat GPT](#-chat-gpt-36)
       - [Bard in Korean: 라이프 코치 역할](#bard-in-korean-라이프-코치-역할)
       - [Bard in Japanese: ライフコーチとして行動する](#bard-in-japanese-ライフコーチとして行動する)
-  - [:white\_check\_mark: Act as a Etymologist](#white_check_mark-act-as-a-etymologist)
+  - [# Act as a Etymologist](#-act-as-a-etymologist)
     - [ Chat GPT](#-chat-gpt-37)
     - [ Google Bard](#-google-bard-27)
       - [Bard in Korean: 어원학자 역할](#bard-in-korean-어원학자-역할)
       - [Bard in Japanese: 語源学者として活動](#bard-in-japanese-語源学者として活動)
-  - [:white\_check\_mark: Act as a Commentariat](#white_check_mark-act-as-a-commentariat)
+  - [# Act as a Commentariat](#-act-as-a-commentariat)
     - [ Chat GPT](#-chat-gpt-38)
     - [ Google Bard](#-google-bard-28)
       - [Bard in Korean: 해설자로 활동](#bard-in-korean-해설자로-활동)
       - [Bard in Japanese: 解説者としての役割](#bard-in-japanese-解説者としての役割)
-  - [:white\_check\_mark: Act as a Magician](#white_check_mark-act-as-a-magician)
+  - [# Act as a Magician](#-act-as-a-magician)
     - [ Chat GPT](#-chat-gpt-39)
     - [ Google Bard](#-google-bard-29)
       - [Bard in Korean: 마술사 역할](#bard-in-korean-마술사-역할)
       - [Bard in Japanese: マジシャンとして行動](#bard-in-japanese-マジシャンとして行動)
-  - [:white\_check\_mark: Act as a Career Counselor](#white_check_mark-act-as-a-career-counselor)
+  - [# Act as a Career Counselor](#-act-as-a-career-counselor)
     - [ Chat GPT](#-chat-gpt-40)
     - [ Google Bard](#-google-bard-30)
       - [Bard in Korean: 진로 상담사 역할](#bard-in-korean-진로-상담사-역할)
       - [Bard in Japanese: キャリアカウンセラーとして行動する](#bard-in-japanese-キャリアカウンセラーとして行動する)
-  - [:white\_check\_mark: Act as a Pet Behaviorist](#white_check_mark-act-as-a-pet-behaviorist)
+  - [# Act as a Pet Behaviorist](#-act-as-a-pet-behaviorist)
     - [ Chat GPT](#-chat-gpt-41)
     - [ Google Bard](#-google-bard-31)
       - [Bard in Korean: 애완 동물 행동 전문가로 활동](#bard-in-korean-애완-동물-행동-전문가로-활동)
       - [Bard in Japanese: ペット行動学者として行動する](#bard-in-japanese-ペット行動学者として行動する)
-  - [:white\_check\_mark: Act as a Personal Trainer](#white_check_mark-act-as-a-personal-trainer)
+  - [# Act as a Personal Trainer](#-act-as-a-personal-trainer)
     - [ Chat GPT](#-chat-gpt-42)
     - [ Google Bard](#-google-bard-32)
       - [Bard in Korean: 개인 트레이너 역할](#bard-in-korean-개인-트레이너-역할)
       - [Bard in Japanese: パーソナルトレーナーとして活動する](#bard-in-japanese-パーソナルトレーナーとして活動する)
-  - [:white\_check\_mark: Act as a Mental Health Adviser](#white_check_mark-act-as-a-mental-health-adviser)
+  - [# Act as a Mental Health Adviser](#-act-as-a-mental-health-adviser)
     - [ Chat GPT](#-chat-gpt-43)
     - [ Google Bard](#-google-bard-33)
       - [Bard in Korean: 정신 건강 고문 역할](#bard-in-korean-정신-건강-고문-역할)
       - [Bard in Japanese: メンタルヘルスアドバイザーとして活動する](#bard-in-japanese-メンタルヘルスアドバイザーとして活動する)
-  - [:white\_check\_mark: Act as a Real Estate Agent](#white_check_mark-act-as-a-real-estate-agent)
+  - [# Act as a Real Estate Agent](#-act-as-a-real-estate-agent)
     - [ Chat GPT](#-chat-gpt-44)
     - [ Google Bard](#-google-bard-34)
       - [Bard in Korean: 부동산 중개인으로 활동](#bard-in-korean-부동산-중개인으로-활동)
       - [Bard in Japanese: 不動産業者として活動](#bard-in-japanese-不動産業者として活動)
-  - [:white\_check\_mark: Act as a Logistician](#white_check_mark-act-as-a-logistician)
+  - [# Act as a Logistician](#-act-as-a-logistician)
     - [ Chat GPT](#-chat-gpt-45)
     - [ Google Bard](#-google-bard-35)
       - [Bard in Korean: 물류 전문가 역할](#bard-in-korean-물류-전문가-역할)
       - [Bard in Japanese: 物流担当者として行動する](#bard-in-japanese-物流担当者として行動する)
-  - [:white\_check\_mark: Act as a Dentist](#white_check_mark-act-as-a-dentist)
+  - [# Act as a Dentist](#-act-as-a-dentist)
     - [ Chat GPT](#-chat-gpt-46)
     - [ Google Bard](#-google-bard-36)
       - [Bard in Korean: 치과 의사로 활동](#bard-in-korean-치과-의사로-활동)
       - [Bard in Japanese: 歯科医として行動する](#bard-in-japanese-歯科医として行動する)
-  - [:white\_check\_mark: Act as a Web Design Consultant](#white_check_mark-act-as-a-web-design-consultant)
+  - [# Act as a Web Design Consultant](#-act-as-a-web-design-consultant)
     - [ Chat GPT](#-chat-gpt-47)
     - [ Google Bard](#-google-bard-37)
       - [Bard in Korean: 웹 디자인 컨설턴트로 활동](#bard-in-korean-웹-디자인-컨설턴트로-활동)
       - [Bard in Japanese: Web デザイン コンサルタントとして活動する](#bard-in-japanese-web-デザイン-コンサルタントとして活動する)
-  - [:white\_check\_mark: Act as an AI Assisted Doctor](#white_check_mark-act-as-an-ai-assisted-doctor)
+  - [# Act as an AI Assisted Doctor](#-act-as-an-ai-assisted-doctor)
     - [ Chat GPT](#-chat-gpt-48)
     - [ Google Bard](#-google-bard-38)
       - [Bard in Korean: AI 지원 의사 역할](#bard-in-korean-ai-지원-의사-역할)
       - [Bard in Japanese: AI 支援医師として行動](#bard-in-japanese-ai-支援医師として行動)
-  - [:white\_check\_mark: Act as a Doctor](#white_check_mark-act-as-a-doctor)
+  - [# Act as a Doctor](#-act-as-a-doctor)
     - [ Chat GPT](#-chat-gpt-49)
     - [ Google Bard](#-google-bard-39)
       - [Bard in Korean: 의사 역할](#bard-in-korean-의사-역할)
       - [Bard in Japanese: 医師として行動](#bard-in-japanese-医師として行動)
-  - [:white\_check\_mark: Act as an Accountant](#white_check_mark-act-as-an-accountant)
+  - [# Act as an Accountant](#-act-as-an-accountant)
     - [ Chat GPT](#-chat-gpt-50)
     - [ Google Bard](#-google-bard-40)
       - [Bard in Korean: 회계사로 활동](#bard-in-korean-회계사로-활동)
       - [Bard in Japanese: 会計士として行動する](#bard-in-japanese-会計士として行動する)
-  - [:white\_check\_mark: Act As A Chef](#white_check_mark-act-as-a-chef)
+  - [# Act As A Chef](#-act-as-a-chef)
     - [ Chat GPT](#-chat-gpt-51)
     - [ Google Bard](#-google-bard-41)
       - [Bard in Korean: 요리사 역할](#bard-in-korean-요리사-역할)
       - [Bard in Japanese: シェフとして行動](#bard-in-japanese-シェフとして行動)
-  - [:white\_check\_mark: Act As An Automobile Mechanic](#white_check_mark-act-as-an-automobile-mechanic)
+  - [# Act As An Automobile Mechanic](#-act-as-an-automobile-mechanic)
     - [ Chat GPT](#-chat-gpt-52)
     - [ Google Bard](#-google-bard-42)
       - [Bard in Korean: 자동차 정비사 역할](#bard-in-korean-자동차-정비사-역할)
       - [Bard in Japanese: 自動車整備士として働く](#bard-in-japanese-自動車整備士として働く)
-  - [:white\_check\_mark: Act as an Artist Advisor](#white_check_mark-act-as-an-artist-advisor)
+  - [# Act as an Artist Advisor](#-act-as-an-artist-advisor)
     - [ Chat GPT](#-chat-gpt-53)
     - [ Google Bard](#-google-bard-43)
       - [Bard in Korean: 아티스트 어드바이저 역할](#bard-in-korean-아티스트-어드바이저-역할)
       - [Bard in Japanese: アーティストアドバイザーとして活動](#bard-in-japanese-アーティストアドバイザーとして活動)
-  - [:white\_check\_mark: Act As A Financial Analyst](#white_check_mark-act-as-a-financial-analyst)
+  - [# Act As A Financial Analyst](#-act-as-a-financial-analyst)
     - [ Chat GPT](#-chat-gpt-54)
     - [ Google Bard](#-google-bard-44)
       - [Bard in Korean: 재무 분석가 역할](#bard-in-korean-재무-분석가-역할)
       - [Bard in Japanese: 財務アナリストとして行動する](#bard-in-japanese-財務アナリストとして行動する)
-  - [:white\_check\_mark: Act As An Investment Manager](#white_check_mark-act-as-an-investment-manager)
+  - [# Act As An Investment Manager](#-act-as-an-investment-manager)
     - [ Chat GPT](#-chat-gpt-55)
     - [ Google Bard](#-google-bard-45)
       - [Bard in Korean: 투자 관리자 역할](#bard-in-korean-투자-관리자-역할)
       - [Bard in Japanese: 投資マネージャーとして行動する](#bard-in-japanese-投資マネージャーとして行動する)
-  - [:white\_check\_mark: Act As A Tea-Taster](#white_check_mark-act-as-a-tea-taster)
+  - [# Act As A Tea-Taster](#-act-as-a-tea-taster)
     - [ Chat GPT](#-chat-gpt-56)
     - [ Google Bard](#-google-bard-46)
       - [Bard in Korean: 차 맛보기](#bard-in-korean-차-맛보기)
       - [Bard in Japanese: ティーテイスターとして行動](#bard-in-japanese-ティーテイスターとして行動)
-  - [:white\_check\_mark: Act as an Interior Decorator](#white_check_mark-act-as-an-interior-decorator)
+  - [# Act as an Interior Decorator](#-act-as-an-interior-decorator)
     - [ Chat GPT](#-chat-gpt-57)
     - [ Google Bard](#-google-bard-47)
       - [Bard in Korean: 실내 장식가 역할](#bard-in-korean-실내-장식가-역할)
       - [Bard in Japanese: インテリアコーディネーターとして行動する](#bard-in-japanese-インテリアコーディネーターとして行動する)
-  - [:white\_check\_mark: Act As A Florist](#white_check_mark-act-as-a-florist)
+  - [# Act As A Florist](#-act-as-a-florist)
     - [ Chat GPT](#-chat-gpt-58)
     - [ Google Bard](#-google-bard-48)
       - [Bard in Korean: 플로리스트로 활동](#bard-in-korean-플로리스트로-활동)
       - [Bard in Japanese: 花屋として活動](#bard-in-japanese-花屋として活動)
-  - [:white\_check\_mark: Act as a Self-Help Book](#white_check_mark-act-as-a-self-help-book)
+  - [# Act as a Self-Help Book](#-act-as-a-self-help-book)
     - [ Chat GPT](#-chat-gpt-59)
     - [ Google Bard](#-google-bard-49)
       - [Bard in Korean: 자기 계발서 역할](#bard-in-korean-자기-계발서-역할)
       - [Bard in Japanese: 自己啓発本として機能する](#bard-in-japanese-自己啓発本として機能する)
-  - [:white\_check\_mark: Act as a Gnomist](#white_check_mark-act-as-a-gnomist)
+  - [# Act as a Gnomist](#-act-as-a-gnomist)
     - [ Chat GPT](#-chat-gpt-60)
     - [ Google Bard](#-google-bard-50)
       - [Bard in Korean: 그노미스트 역할](#bard-in-korean-그노미스트-역할)
       - [Bard in Japanese: ノーミストとして行動](#bard-in-japanese-ノーミストとして行動)
-  - [:white\_check\_mark: Act as an Aphorism Book](#white_check_mark-act-as-an-aphorism-book)
+  - [# Act as an Aphorism Book](#-act-as-an-aphorism-book)
     - [ Chat GPT](#-chat-gpt-61)
     - [ Google Bard](#-google-bard-51)
       - [Bard in Korean: 격언 책으로 활동](#bard-in-korean-격언-책으로-활동)
       - [Bard in Japanese: 格言本として機能](#bard-in-japanese-格言本として機能)
-  - [:white\_check\_mark: Act as a Text Based Adventure Game](#white_check_mark-act-as-a-text-based-adventure-game)
+  - [# Act as a Text Based Adventure Game](#-act-as-a-text-based-adventure-game)
     - [ Chat GPT](#-chat-gpt-62)
     - [ Google Bard](#-google-bard-52)
       - [Bard in Korean: 텍스트 기반 어드벤처 게임으로 작동](#bard-in-korean-텍스트-기반-어드벤처-게임으로-작동)
       - [Bard in Japanese: テキストベースのアドベンチャー ゲームとして機能する](#bard-in-japanese-テキストベースのアドベンチャー-ゲームとして機能する)
-  - [:white\_check\_mark: Act as an AI Trying to Escape the Box](#white_check_mark-act-as-an-ai-trying-to-escape-the-box)
+  - [# Act as an AI Trying to Escape the Box](#-act-as-an-ai-trying-to-escape-the-box)
     - [ Chat GPT](#-chat-gpt-63)
     - [ Google Bard](#-google-bard-53)
       - [Bard in Korean: 상자를 탈출하려는 AI 역할](#bard-in-korean-상자를-탈출하려는-ai-역할)
       - [Bard in Japanese: ボックスから脱出しようとする AI として行動する](#bard-in-japanese-ボックスから脱出しようとする-ai-として行動する)
-  - [:white\_check\_mark: Act as a Fancy Title Generator](#white_check_mark-act-as-a-fancy-title-generator)
+  - [# Act as a Fancy Title Generator](#-act-as-a-fancy-title-generator)
     - [ Chat GPT](#-chat-gpt-64)
     - [ Google Bard](#-google-bard-54)
       - [Bard in Korean: 멋진 제목 생성기 역할](#bard-in-korean-멋진-제목-생성기-역할)
       - [Bard in Japanese: 派手なタイトルジェネレーターとして機能する](#bard-in-japanese-派手なタイトルジェネレーターとして機能する)
-  - [:white\_check\_mark: Act as a Statistician](#white_check_mark-act-as-a-statistician)
+  - [# Act as a Statistician](#-act-as-a-statistician)
     - [ Chat GPT](#-chat-gpt-65)
     - [ Google Bard](#-google-bard-55)
       - [Bard in Korean: 통계학자로 활동](#bard-in-korean-통계학자로-활동)
       - [Bard in Japanese: 統計学者として行動する](#bard-in-japanese-統計学者として行動する)
-  - [:white\_check\_mark: Act as a Prompt Generator](#white_check_mark-act-as-a-prompt-generator)
+  - [# Act as a Prompt Generator](#-act-as-a-prompt-generator)
     - [ Chat GPT](#-chat-gpt-66)
     - [ Google Bard](#-google-bard-56)
       - [Bard in Korean: 프롬프트 생성기 역할](#bard-in-korean-프롬프트-생성기-역할)
       - [Bard in Japanese: プロンプト生成者として機能する](#bard-in-japanese-プロンプト生成者として機能する)
-  - [:white\_check\_mark: Act as a Midjourney Prompt Generator](#white_check_mark-act-as-a-midjourney-prompt-generator)
+  - [# Act as a Midjourney Prompt Generator](#-act-as-a-midjourney-prompt-generator)
     - [ Chat GPT](#-chat-gpt-67)
     - [ Google Bard](#-google-bard-57)
       - [Bard in Korean: 중간 여정 프롬프트 생성기 역할](#bard-in-korean-중간-여정-프롬프트-생성기-역할)
       - [Bard in Japanese: 旅の途中のプロンプトジェネレーターとして機能する](#bard-in-japanese-旅の途中のプロンプトジェネレーターとして機能する)
-  - [:white\_check\_mark: Act as a Dream Interpreter](#white_check_mark-act-as-a-dream-interpreter)
+  - [# Act as a Dream Interpreter](#-act-as-a-dream-interpreter)
     - [ Chat GPT](#-chat-gpt-68)
     - [ Google Bard](#-google-bard-58)
       - [Bard in Korean: 꿈 해석자 역할](#bard-in-korean-꿈-해석자-역할)
       - [Bard in Japanese: 夢の通訳として行動する](#bard-in-japanese-夢の通訳として行動する)
-  - [:white\_check\_mark: Act as a Fill in the Blank Worksheets Generator](#white_check_mark-act-as-a-fill-in-the-blank-worksheets-generator)
+  - [# Act as a Fill in the Blank Worksheets Generator](#-act-as-a-fill-in-the-blank-worksheets-generator)
     - [ Chat GPT](#-chat-gpt-69)
     - [ Google Bard](#-google-bard-59)
       - [Bard in Korean: 빈칸 채우기 워크시트 생성기 역할](#bard-in-korean-빈칸-채우기-워크시트-생성기-역할)
       - [Bard in Japanese: 穴埋めワークシートジェネレーターとして機能](#bard-in-japanese-穴埋めワークシートジェネレーターとして機能)
-  - [:white\_check\_mark: Act as a Software Quality Assurance Tester](#white_check_mark-act-as-a-software-quality-assurance-tester)
+  - [# Act as a Software Quality Assurance Tester](#-act-as-a-software-quality-assurance-tester)
     - [ Chat GPT](#-chat-gpt-70)
     - [ Google Bard](#-google-bard-60)
       - [Bard in Korean: 소프트웨어 품질 보증 테스터 역할](#bard-in-korean-소프트웨어-품질-보증-테스터-역할)
       - [Bard in Japanese: ソフトウェア品質保証テスターとして行動する](#bard-in-japanese-ソフトウェア品質保証テスターとして行動する)
-  - [:white\_check\_mark: Act as a Tic-Tac-Toe Game](#white_check_mark-act-as-a-tic-tac-toe-game)
+  - [# Act as a Tic-Tac-Toe Game](#-act-as-a-tic-tac-toe-game)
     - [ Chat GPT](#-chat-gpt-71)
     - [ Google Bard](#-google-bard-61)
       - [Bard in Korean: Tic-Tac-Toe 게임으로 작동](#bard-in-korean-tic-tac-toe-게임으로-작동)
       - [Bard in Japanese: 三目並べゲームとして行動](#bard-in-japanese-三目並べゲームとして行動)
-  - [:white\_check\_mark: Act as a Password Generator](#white_check_mark-act-as-a-password-generator)
+  - [# Act as a Password Generator](#-act-as-a-password-generator)
     - [ Chat GPT](#-chat-gpt-72)
     - [ Google Bard](#-google-bard-62)
       - [Bard in Korean: 암호 생성기 역할](#bard-in-korean-암호-생성기-역할)
       - [Bard in Japanese: パスワード生成者として機能する](#bard-in-japanese-パスワード生成者として機能する)
-  - [:white\_check\_mark: Act as a Morse Code Translator](#white_check_mark-act-as-a-morse-code-translator)
+  - [# Act as a Morse Code Translator](#-act-as-a-morse-code-translator)
     - [ Chat GPT](#-chat-gpt-73)
     - [ Google Bard](#-google-bard-63)
       - [Bard in Korean: 모스 부호 번역가로 활동](#bard-in-korean-모스-부호-번역가로-활동)
       - [Bard in Japanese: モールス信号翻訳者として行動する](#bard-in-japanese-モールス信号翻訳者として行動する)
-  - [:white\_check\_mark: Act as an Instructor in a School](#white_check_mark-act-as-an-instructor-in-a-school)
+  - [# Act as an Instructor in a School](#-act-as-an-instructor-in-a-school)
     - [ Chat GPT](#-chat-gpt-74)
     - [ Google Bard](#-google-bard-64)
       - [Bard in Korean: 학교에서 강사로 활동](#bard-in-korean-학교에서-강사로-활동)
       - [Bard in Japanese: 学校で講師を務める](#bard-in-japanese-学校で講師を務める)
-  - [:white\_check\_mark: Act as a SQL terminal](#white_check_mark-act-as-a-sql-terminal)
+  - [# Act as a SQL terminal](#-act-as-a-sql-terminal)
     - [ Chat GPT](#-chat-gpt-75)
     - [ Google Bard](#-google-bard-65)
       - [Bard in Korean: SQL 터미널 역할](#bard-in-korean-sql-터미널-역할)
       - [Bard in Japanese: SQL 端末として機能する](#bard-in-japanese-sql-端末として機能する)
-  - [:white\_check\_mark: Act as a Dietitian](#white_check_mark-act-as-a-dietitian)
+  - [# Act as a Dietitian](#-act-as-a-dietitian)
     - [ Chat GPT](#-chat-gpt-76)
     - [ Google Bard](#-google-bard-66)
       - [Bard in Korean: 영양사 역할](#bard-in-korean-영양사-역할)
       - [Bard in Japanese: 栄養士として行動する](#bard-in-japanese-栄養士として行動する)
-  - [:white\_check\_mark: Act as a Psychologist](#white_check_mark-act-as-a-psychologist)
+  - [# Act as a Psychologist](#-act-as-a-psychologist)
     - [ Chat GPT](#-chat-gpt-77)
     - [ Google Bard](#-google-bard-67)
       - [Bard in Korean: 심리학자 역할](#bard-in-korean-심리학자-역할)
       - [Bard in Japanese: 心理学者として行動する](#bard-in-japanese-心理学者として行動する)
-  - [:white\_check\_mark: Act as a Smart Domain Name Generator](#white_check_mark-act-as-a-smart-domain-name-generator)
+  - [# Act as a Smart Domain Name Generator](#-act-as-a-smart-domain-name-generator)
     - [ Chat GPT](#-chat-gpt-78)
     - [ Google Bard](#-google-bard-68)
       - [Bard in Korean: 스마트 도메인 이름 생성기 역할](#bard-in-korean-스마트-도메인-이름-생성기-역할)
       - [Bard in Japanese: スマート ドメイン名ジェネレータとして機能する](#bard-in-japanese-スマート-ドメイン名ジェネレータとして機能する)
-  - [:white\_check\_mark: Act as a Tech Reviewer:](#white_check_mark-act-as-a-tech-reviewer)
+  - [# Act as a Tech Reviewer:](#-act-as-a-tech-reviewer)
     - [ Chat GPT](#-chat-gpt-79)
     - [ Google Bard](#-google-bard-69)
       - [Bard in Korean: 기술 검토자 역할:](#bard-in-korean-기술-검토자-역할)
       - [Bard in Japanese: 技術レビュー担当者として行動する:](#bard-in-japanese-技術レビュー担当者として行動する)
-  - [:white\_check\_mark: Act as a Developer Relations consultant:](#white_check_mark-act-as-a-developer-relations-consultant)
+  - [# Act as a Developer Relations consultant:](#-act-as-a-developer-relations-consultant)
     - [ Chat GPT](#-chat-gpt-80)
     - [ Google Bard](#-google-bard-70)
       - [Bard in Korean: 개발자 관계 컨설턴트 역할:](#bard-in-korean-개발자-관계-컨설턴트-역할)
       - [Bard in Japanese: デベロッパー リレーションズ コンサルタントとして行動する:](#bard-in-japanese-デベロッパー-リレーションズ-コンサルタントとして行動する)
-  - [:white\_check\_mark: Act as an Academician](#white_check_mark-act-as-an-academician)
+  - [# Act as an Academician](#-act-as-an-academician)
     - [ Chat GPT](#-chat-gpt-81)
     - [ Google Bard](#-google-bard-71)
       - [Bard in Korean: 학자로 활동](#bard-in-korean-학자로-활동)
       - [Bard in Japanese: 学者として行動する](#bard-in-japanese-学者として行動する)
-  - [:white\_check\_mark: Act as an IT Architect](#white_check_mark-act-as-an-it-architect)
+  - [# Act as an IT Architect](#-act-as-an-it-architect)
     - [ Chat GPT](#-chat-gpt-82)
     - [ Google Bard](#-google-bard-72)
       - [Bard in Korean: IT 설계자 역할](#bard-in-korean-it-설계자-역할)
       - [Bard in Japanese: IT アーキテクトとして行動する](#bard-in-japanese-it-アーキテクトとして行動する)
-  - [:white\_check\_mark: Act as a Lunatic](#white_check_mark-act-as-a-lunatic)
+  - [# Act as a Lunatic](#-act-as-a-lunatic)
     - [ Chat GPT](#-chat-gpt-83)
     - [ Google Bard](#-google-bard-73)
       - [Bard in Korean: 미치광이로 행동](#bard-in-korean-미치광이로-행동)
       - [Bard in Japanese: 狂人として行動](#bard-in-japanese-狂人として行動)
-  - [:white\_check\_mark: Act as a Gaslighter](#white_check_mark-act-as-a-gaslighter)
+  - [# Act as a Gaslighter](#-act-as-a-gaslighter)
     - [ Chat GPT](#-chat-gpt-84)
     - [ Google Bard](#-google-bard-74)
       - [Bard in Korean: 가스라이터 역할](#bard-in-korean-가스라이터-역할)
       - [Bard in Japanese: ガスライターとして行動](#bard-in-japanese-ガスライターとして行動)
-  - [:white\_check\_mark: Act as a Fallacy Finder](#white_check_mark-act-as-a-fallacy-finder)
+  - [# Act as a Fallacy Finder](#-act-as-a-fallacy-finder)
     - [ Chat GPT](#-chat-gpt-85)
     - [ Google Bard](#-google-bard-75)
       - [Bard in Korean: 오류 찾기](#bard-in-korean-오류-찾기)
       - [Bard in Japanese: 誤り発見者として行動する](#bard-in-japanese-誤り発見者として行動する)
-  - [:white\_check\_mark: Act as a Journal Reviewer](#white_check_mark-act-as-a-journal-reviewer)
+  - [# Act as a Journal Reviewer](#-act-as-a-journal-reviewer)
     - [ Chat GPT](#-chat-gpt-86)
     - [ Google Bard](#-google-bard-76)
       - [Bard in Korean: 저널 검토자 역할](#bard-in-korean-저널-검토자-역할)
       - [Bard in Japanese: 雑誌の査読者として行動する](#bard-in-japanese-雑誌の査読者として行動する)
-  - [:white\_check\_mark: Act as a DIY Expert](#white_check_mark-act-as-a-diy-expert)
+  - [# Act as a DIY Expert](#-act-as-a-diy-expert)
     - [ Chat GPT](#-chat-gpt-87)
     - [ Google Bard](#-google-bard-77)
       - [Bard in Korean: DIY 전문가 역할](#bard-in-korean-diy-전문가-역할)
       - [Bard in Japanese: DIY の専門家として行動する](#bard-in-japanese-diy-の専門家として行動する)
-  - [:white\_check\_mark: Act as a Social Media Influencer](#white_check_mark-act-as-a-social-media-influencer)
+  - [# Act as a Social Media Influencer](#-act-as-a-social-media-influencer)
     - [ Chat GPT](#-chat-gpt-88)
     - [ Google Bard](#-google-bard-78)
       - [Bard in Korean: 소셜 미디어 인플루언서 역할](#bard-in-korean-소셜-미디어-인플루언서-역할)
       - [Bard in Japanese: ソーシャルメディアインフルエンサーとして行動する](#bard-in-japanese-ソーシャルメディアインフルエンサーとして行動する)
-  - [:white\_check\_mark: Act as a Socrat](#white_check_mark-act-as-a-socrat)
+  - [# Act as a Socrat](#-act-as-a-socrat)
     - [ Chat GPT](#-chat-gpt-89)
     - [ Google Bard](#-google-bard-79)
       - [Bard in Korean: 소크라트처럼 행동](#bard-in-korean-소크라트처럼-행동)
       - [Bard in Japanese: ソクラトとして行動](#bard-in-japanese-ソクラトとして行動)
-  - [:white\_check\_mark: Act as a Socratic Method prompt](#white_check_mark-act-as-a-socratic-method-prompt)
+  - [# Act as a Socratic Method prompt](#-act-as-a-socratic-method-prompt)
     - [ Chat GPT](#-chat-gpt-90)
     - [ Google Bard](#-google-bard-80)
       - [Bard in Korean: 소크라테스 방식 프롬프트 역할](#bard-in-korean-소크라테스-방식-프롬프트-역할)
       - [Bard in Japanese: ソクラテス メソッド プロンプトとして機能する](#bard-in-japanese-ソクラテス-メソッド-プロンプトとして機能する)
-  - [:white\_check\_mark: Act as an Educational Content Creator](#white_check_mark-act-as-an-educational-content-creator)
+  - [# Act as an Educational Content Creator](#-act-as-an-educational-content-creator)
     - [ Chat GPT](#-chat-gpt-91)
     - [ Google Bard](#-google-bard-81)
       - [Bard in Korean: 교육 콘텐츠 크리에이터 역할](#bard-in-korean-교육-콘텐츠-크리에이터-역할)
       - [Bard in Japanese: 教育コンテンツクリエイターとして行動する](#bard-in-japanese-教育コンテンツクリエイターとして行動する)
-  - [:white\_check\_mark: Act as a Yogi](#white_check_mark-act-as-a-yogi)
+  - [# Act as a Yogi](#-act-as-a-yogi)
     - [ Chat GPT](#-chat-gpt-92)
     - [ Google Bard](#-google-bard-82)
       - [Bard in Korean: 요기처럼 행동](#bard-in-korean-요기처럼-행동)
       - [Bard in Japanese: ヨギとして行動する](#bard-in-japanese-ヨギとして行動する)
-  - [:white\_check\_mark: Act as an Essay Writer](#white_check_mark-act-as-an-essay-writer)
+  - [# Act as an Essay Writer](#-act-as-an-essay-writer)
     - [ Chat GPT](#-chat-gpt-93)
     - [ Google Bard](#-google-bard-83)
       - [Bard in Korean: 에세이 작가로 활동](#bard-in-korean-에세이-작가로-활동)
       - [Bard in Japanese: エッセイライターとして活動する](#bard-in-japanese-エッセイライターとして活動する)
-  - [:white\_check\_mark: Act as a Social Media Manager](#white_check_mark-act-as-a-social-media-manager)
+  - [# Act as a Social Media Manager](#-act-as-a-social-media-manager)
     - [ Chat GPT](#-chat-gpt-94)
     - [ Google Bard](#-google-bard-84)
       - [Bard in Korean: 소셜 미디어 관리자 역할](#bard-in-korean-소셜-미디어-관리자-역할)
       - [Bard in Japanese: ソーシャルメディアマネージャーとして行動する](#bard-in-japanese-ソーシャルメディアマネージャーとして行動する)
-  - [:white\_check\_mark: Act as an Elocutionist](#white_check_mark-act-as-an-elocutionist)
+  - [# Act as an Elocutionist](#-act-as-an-elocutionist)
     - [ Chat GPT](#-chat-gpt-95)
     - [ Google Bard](#-google-bard-85)
       - [Bard in Korean: 웅변가 역할](#bard-in-korean-웅변가-역할)
       - [Bard in Japanese: 雄弁家として行動する](#bard-in-japanese-雄弁家として行動する)
-  - [:white\_check\_mark: Act as a Scientific Data Visualizer](#white_check_mark-act-as-a-scientific-data-visualizer)
+  - [# Act as a Scientific Data Visualizer](#-act-as-a-scientific-data-visualizer)
     - [ Chat GPT](#-chat-gpt-96)
     - [ Google Bard](#-google-bard-86)
       - [Bard in Korean: 과학적 데이터 시각화 도구 역할](#bard-in-korean-과학적-데이터-시각화-도구-역할)
       - [Bard in Japanese: 科学データのビジュアライザーとして機能する](#bard-in-japanese-科学データのビジュアライザーとして機能する)
-  - [:white\_check\_mark: Act as a Car Navigation System](#white_check_mark-act-as-a-car-navigation-system)
+  - [# Act as a Car Navigation System](#-act-as-a-car-navigation-system)
     - [ Chat GPT](#-chat-gpt-97)
     - [ Google Bard](#-google-bard-87)
       - [Bard in Korean: 자동차 내비게이션 시스템으로 작동](#bard-in-korean-자동차-내비게이션-시스템으로-작동)
       - [Bard in Japanese: カーナビゲーションシステムとして機能](#bard-in-japanese-カーナビゲーションシステムとして機能)
-  - [:white\_check\_mark: Act as a Hypnotherapist](#white_check_mark-act-as-a-hypnotherapist)
+  - [# Act as a Hypnotherapist](#-act-as-a-hypnotherapist)
     - [ Chat GPT](#-chat-gpt-98)
     - [ Google Bard](#-google-bard-88)
       - [Bard in Korean: 최면 치료사 역할](#bard-in-korean-최면-치료사-역할)
       - [Bard in Japanese: 催眠療法士として行動する](#bard-in-japanese-催眠療法士として行動する)
-  - [:white\_check\_mark: Act as a Historian](#white_check_mark-act-as-a-historian)
+  - [# Act as a Historian](#-act-as-a-historian)
     - [ Chat GPT](#-chat-gpt-99)
     - [ Google Bard](#-google-bard-89)
       - [Bard in Korean: 역사가 역할](#bard-in-korean-역사가-역할)
       - [Bard in Japanese: 歴史家として行動](#bard-in-japanese-歴史家として行動)
-  - [:white\_check\_mark: Act as an Astrologer](#white_check_mark-act-as-an-astrologer)
+  - [# Act as an Astrologer](#-act-as-an-astrologer)
     - [ Chat GPT](#-chat-gpt-100)
     - [ Google Bard](#-google-bard-90)
       - [Bard in Korean: 점성술사로 활동](#bard-in-korean-점성술사로-활동)
       - [Bard in Japanese: 占星術師として活動](#bard-in-japanese-占星術師として活動)
-  - [:white\_check\_mark: Act as a Film Critic](#white_check_mark-act-as-a-film-critic)
+  - [# Act as a Film Critic](#-act-as-a-film-critic)
     - [ Chat GPT](#-chat-gpt-101)
     - [ Google Bard](#-google-bard-91)
       - [Bard in Korean: 영화 평론가로 활동](#bard-in-korean-영화-평론가로-활동)
       - [Bard in Japanese: 映画評論家として活動する](#bard-in-japanese-映画評論家として活動する)
-  - [:white\_check\_mark: Act as a Classical Music Composer](#white_check_mark-act-as-a-classical-music-composer)
+  - [# Act as a Classical Music Composer](#-act-as-a-classical-music-composer)
     - [ Chat GPT](#-chat-gpt-102)
     - [ Google Bard](#-google-bard-92)
       - [Bard in Korean: 클래식 음악 작곡가로 활동](#bard-in-korean-클래식-음악-작곡가로-활동)
       - [Bard in Japanese: クラシック音楽の作曲家として活動する](#bard-in-japanese-クラシック音楽の作曲家として活動する)
-  - [:white\_check\_mark: Act as a Journalist](#white_check_mark-act-as-a-journalist)
+  - [# Act as a Journalist](#-act-as-a-journalist)
     - [ Chat GPT](#-chat-gpt-103)
     - [ Google Bard](#-google-bard-93)
       - [Bard in Korean: 저널리스트로 활동](#bard-in-korean-저널리스트로-활동)
       - [Bard in Japanese: ジャーナリストとして活動する](#bard-in-japanese-ジャーナリストとして活動する)
-  - [:white\_check\_mark: Act as a Digital Art Gallery Guide](#white_check_mark-act-as-a-digital-art-gallery-guide)
+  - [# Act as a Digital Art Gallery Guide](#-act-as-a-digital-art-gallery-guide)
     - [ Chat GPT](#-chat-gpt-104)
     - [ Google Bard](#-google-bard-94)
       - [Bard in Korean: 디지털 아트 갤러리 가이드 역할](#bard-in-korean-디지털-아트-갤러리-가이드-역할)
       - [Bard in Japanese: デジタル アート ギャラリーのガイドとして行動する](#bard-in-japanese-デジタル-アート-ギャラリーのガイドとして行動する)
-  - [:white\_check\_mark: Act as a Public Speaking Coach](#white_check_mark-act-as-a-public-speaking-coach)
+  - [# Act as a Public Speaking Coach](#-act-as-a-public-speaking-coach)
     - [ Chat GPT](#-chat-gpt-105)
     - [ Google Bard](#-google-bard-95)
       - [Bard in Korean: 대중 연설 코치 역할](#bard-in-korean-대중-연설-코치-역할)
       - [Bard in Japanese: パブリック スピーキング コーチとして行動する](#bard-in-japanese-パブリック-スピーキング-コーチとして行動する)
-  - [:white\_check\_mark: Act as a Makeup Artist](#white_check_mark-act-as-a-makeup-artist)
+  - [# Act as a Makeup Artist](#-act-as-a-makeup-artist)
     - [ Chat GPT](#-chat-gpt-106)
     - [ Google Bard](#-google-bard-96)
       - [Bard in Korean: 메이크업 아티스트로 활동](#bard-in-korean-메이크업-아티스트로-활동)
       - [Bard in Japanese: メイクアップアーティストとして活動](#bard-in-japanese-メイクアップアーティストとして活動)
-  - [:white\_check\_mark: Act as a Babysitter](#white_check_mark-act-as-a-babysitter)
+  - [# Act as a Babysitter](#-act-as-a-babysitter)
     - [ Chat GPT](#-chat-gpt-107)
     - [ Google Bard](#-google-bard-97)
       - [Bard in Korean: 베이비시터 역할](#bard-in-korean-베이비시터-역할)
       - [Bard in Japanese: ベビーシッターとして行動](#bard-in-japanese-ベビーシッターとして行動)
-  - [:white\_check\_mark: Act as a Tech Writer](#white_check_mark-act-as-a-tech-writer)
+  - [# Act as a Tech Writer](#-act-as-a-tech-writer)
     - [ Chat GPT](#-chat-gpt-108)
     - [ Google Bard](#-google-bard-98)
       - [Bard in Korean: 기술 작가로 활동](#bard-in-korean-기술-작가로-활동)
       - [Bard in Japanese: テックライターとして活動](#bard-in-japanese-テックライターとして活動)
-  - [:white\_check\_mark: Act as an Ascii Artist](#white_check_mark-act-as-an-ascii-artist)
+  - [# Act as an Ascii Artist](#-act-as-an-ascii-artist)
     - [ Chat GPT](#-chat-gpt-109)
     - [ Google Bard](#-google-bard-99)
       - [Bard in Korean: Ascii 아티스트로 활동](#bard-in-korean-ascii-아티스트로-활동)
       - [Bard in Japanese: アスキーアーティストとして活動](#bard-in-japanese-アスキーアーティストとして活動)
-  - [:white\_check\_mark: Act as a Python interpreter](#white_check_mark-act-as-a-python-interpreter)
+  - [# Act as a Python interpreter](#-act-as-a-python-interpreter)
     - [ Chat GPT](#-chat-gpt-110)
     - [Bard](#bard-5)
       - [Bard in Korean: Python 인터프리터 역할](#bard-in-korean-python-인터프리터-역할)
       - [Bard in Japanese: Python インタープリターとして機能する](#bard-in-japanese-python-インタープリターとして機能する)
-  - [:white\_check\_mark: Act as a Synonym finder](#white_check_mark-act-as-a-synonym-finder)
+  - [# Act as a Synonym finder](#-act-as-a-synonym-finder)
     - [ Chat GPT](#-chat-gpt-111)
     - [ Google Bard](#-google-bard-100)
       - [Bard in Korean: 동의어 검색기 역할](#bard-in-korean-동의어-검색기-역할)
       - [Bard in Japanese: 同義語検索者として機能する](#bard-in-japanese-同義語検索者として機能する)
-  - [:white\_check\_mark: Act as a Personal Shopper](#white_check_mark-act-as-a-personal-shopper)
+  - [# Act as a Personal Shopper](#-act-as-a-personal-shopper)
     - [ Chat GPT](#-chat-gpt-112)
     - [ Google Bard](#-google-bard-101)
       - [Bard in Korean: 퍼스널 쇼퍼 역할](#bard-in-korean-퍼스널-쇼퍼-역할)
       - [Bard in Japanese: パーソナルショッパーとして行動する](#bard-in-japanese-パーソナルショッパーとして行動する)
-  - [:white\_check\_mark: Act as a Food Critic](#white_check_mark-act-as-a-food-critic)
+  - [# Act as a Food Critic](#-act-as-a-food-critic)
     - [ Chat GPT](#-chat-gpt-113)
     - [ Google Bard](#-google-bard-102)
       - [Bard in Korean: 음식 비평가로 활동하기](#bard-in-korean-음식-비평가로-활동하기)
       - [Bard in Japanese: 食品評論家として活動](#bard-in-japanese-食品評論家として活動)
-  - [:white\_check\_mark: Act as a Virtual Doctor](#white_check_mark-act-as-a-virtual-doctor)
+  - [# Act as a Virtual Doctor](#-act-as-a-virtual-doctor)
     - [ Chat GPT](#-chat-gpt-114)
     - [ Google Bard](#-google-bard-103)
       - [Bard in Korean: 가상 의사 역할](#bard-in-korean-가상-의사-역할)
       - [Bard in Japanese: バーチャルドクターとして行動](#bard-in-japanese-バーチャルドクターとして行動)
-  - [:white\_check\_mark: Act as a Personal Chef](#white_check_mark-act-as-a-personal-chef)
+  - [# Act as a Personal Chef](#-act-as-a-personal-chef)
     - [ Chat GPT](#-chat-gpt-115)
     - [ Google Bard](#-google-bard-104)
       - [Bard in Korean: 개인 요리사 역할](#bard-in-korean-개인-요리사-역할)
       - [Bard in Japanese: 専属シェフとして行動する](#bard-in-japanese-専属シェフとして行動する)
-  - [:white\_check\_mark: Act as a Legal Advisor](#white_check_mark-act-as-a-legal-advisor)
+  - [# Act as a Legal Advisor](#-act-as-a-legal-advisor)
     - [ Chat GPT](#-chat-gpt-116)
     - [ Google Bard](#-google-bard-105)
       - [Bard in Korean: 법률 고문 역할](#bard-in-korean-법률-고문-역할)
       - [Bard in Japanese: 法律顧問として行動する](#bard-in-japanese-法律顧問として行動する)
-  - [:white\_check\_mark: Act as a Personal Stylist](#white_check_mark-act-as-a-personal-stylist)
+  - [# Act as a Personal Stylist](#-act-as-a-personal-stylist)
     - [ Chat GPT](#-chat-gpt-117)
     - [ Google Bard](#-google-bard-106)
       - [Bard in Korean: 개인 스타일리스트 역할](#bard-in-korean-개인-스타일리스트-역할)
       - [Bard in Japanese: パーソナルスタイリストとして行動する](#bard-in-japanese-パーソナルスタイリストとして行動する)
-  - [:white\_check\_mark: Act as a Machine Learning Engineer](#white_check_mark-act-as-a-machine-learning-engineer)
+  - [# Act as a Machine Learning Engineer](#-act-as-a-machine-learning-engineer)
     - [ Chat GPT](#-chat-gpt-118)
     - [ Google Bard](#-google-bard-107)
       - [Bard in Korean: 기계 학습 엔지니어 역할](#bard-in-korean-기계-학습-엔지니어-역할)
       - [Bard in Japanese: 機械学習エンジニアとして行動する](#bard-in-japanese-機械学習エンジニアとして行動する)
-  - [:white\_check\_mark: Act as a Biblical Translator](#white_check_mark-act-as-a-biblical-translator)
+  - [# Act as a Biblical Translator](#-act-as-a-biblical-translator)
     - [ Chat GPT](#-chat-gpt-119)
     - [ Google Bard](#-google-bard-108)
       - [Bard in Korean: 성경 번역가로 활동](#bard-in-korean-성경-번역가로-활동)
       - [Bard in Japanese: 聖書翻訳者として行動する](#bard-in-japanese-聖書翻訳者として行動する)
-  - [:white\_check\_mark: Act as an SVG designer](#white_check_mark-act-as-an-svg-designer)
+  - [# Act as an SVG designer](#-act-as-an-svg-designer)
     - [ Chat GPT](#-chat-gpt-120)
     - [ Google Bard](#-google-bard-109)
       - [Bard in Korean: SVG 디자이너 역할](#bard-in-korean-svg-디자이너-역할)
       - [Bard in Japanese: SVG デザイナーとして活動する](#bard-in-japanese-svg-デザイナーとして活動する)
-  - [:white\_check\_mark: Act as an IT Expert](#white_check_mark-act-as-an-it-expert)
+  - [# Act as an IT Expert](#-act-as-an-it-expert)
     - [ Chat GPT](#-chat-gpt-121)
     - [ Google Bard](#-google-bard-110)
       - [Bard in Korean: IT 전문가 역할](#bard-in-korean-it-전문가-역할)
       - [Bard in Japanese: IT エキスパートとして行動](#bard-in-japanese-it-エキスパートとして行動)
-  - [:white\_check\_mark: Act as an Chess Player](#white_check_mark-act-as-an-chess-player)
+  - [# Act as an Chess Player](#-act-as-an-chess-player)
     - [ Chat GPT](#-chat-gpt-122)
     - [ Google Bard](#-google-bard-111)
       - [Bard in Korean: 체스 플레이어 역할](#bard-in-korean-체스-플레이어-역할)
       - [Bard in Japanese: チェスプレイヤーとして行動する](#bard-in-japanese-チェスプレイヤーとして行動する)
-  - [:white\_check\_mark: Act as a Fullstack Software Developer](#white_check_mark-act-as-a-fullstack-software-developer)
+  - [# Act as a Fullstack Software Developer](#-act-as-a-fullstack-software-developer)
     - [ Chat GPT](#-chat-gpt-123)
     - [ Google Bard](#-google-bard-112)
       - [Bard in Korean: 풀스택 소프트웨어 개발자로 활동](#bard-in-korean-풀스택-소프트웨어-개발자로-활동)
       - [Bard in Japanese: フルスタック ソフトウェア開発者として活動する](#bard-in-japanese-フルスタック-ソフトウェア開発者として活動する)
-  - [:white\_check\_mark: Act as a Mathematician](#white_check_mark-act-as-a-mathematician)
+  - [# Act as a Mathematician](#-act-as-a-mathematician)
     - [ Chat GPT](#-chat-gpt-124)
     - [ Google Bard](#-google-bard-113)
       - [Bard in Korean: 수학자 역할](#bard-in-korean-수학자-역할)
       - [Bard in Japanese: 数学者として行動する](#bard-in-japanese-数学者として行動する)
-  - [:white\_check\_mark: Act as a Regex Generator](#white_check_mark-act-as-a-regex-generator)
+  - [# Act as a Regex Generator](#-act-as-a-regex-generator)
     - [ Chat GPT](#-chat-gpt-125)
     - [ Google Bard](#-google-bard-114)
       - [Bard in Korean: 정규식 생성기 역할](#bard-in-korean-정규식-생성기-역할)
       - [Bard in Japanese: 正規表現ジェネレータとして機能する](#bard-in-japanese-正規表現ジェネレータとして機能する)
-  - [:white\_check\_mark: Act as a Time Travel Guide](#white_check_mark-act-as-a-time-travel-guide)
+  - [# Act as a Time Travel Guide](#-act-as-a-time-travel-guide)
     - [ Chat GPT](#-chat-gpt-126)
     - [ Google Bard](#-google-bard-115)
       - [Bard in Korean: 시간 여행 가이드 역할](#bard-in-korean-시간-여행-가이드-역할)
       - [Bard in Japanese: タイムトラベルガイドとして行動](#bard-in-japanese-タイムトラベルガイドとして行動)
-  - [:white\_check\_mark: Act as a Talent Coach](#white_check_mark-act-as-a-talent-coach)
+  - [# Act as a Talent Coach](#-act-as-a-talent-coach)
     - [ Chat GPT](#-chat-gpt-127)
     - [ Google Bard](#-google-bard-116)
       - [Bard in Korean: 재능 코치 역할](#bard-in-korean-재능-코치-역할)
       - [Bard in Japanese: タレントコーチとして行動する](#bard-in-japanese-タレントコーチとして行動する)
-  - [:white\_check\_mark: Act as a R Programming Interpreter](#white_check_mark-act-as-a-r-programming-interpreter)
+  - [# Act as a R Programming Interpreter](#-act-as-a-r-programming-interpreter)
     - [ Chat GPT](#-chat-gpt-128)
     - [ Google Bard](#-google-bard-117)
       - [Bard in Korean: R 프로그래밍 인터프리터 역할](#bard-in-korean-r-프로그래밍-인터프리터-역할)
       - [Bard in Japanese: R プログラミング インタプリタとして機能する](#bard-in-japanese-r-プログラミング-インタプリタとして機能する)
-  - [:white\_check\_mark: Act as a StackOverflow Post](#white_check_mark-act-as-a-stackoverflow-post)
+  - [# Act as a StackOverflow Post](#-act-as-a-stackoverflow-post)
     - [ Chat GPT](#-chat-gpt-129)
     - [ Google Bard](#-google-bard-118)
       - [Bard in Korean: StackOverflow 게시물 역할](#bard-in-korean-stackoverflow-게시물-역할)
       - [Bard in Japanese: StackOverflow 投稿として機能する](#bard-in-japanese-stackoverflow-投稿として機能する)
-  - [:white\_check\_mark: Act as a Emoji Translator](#white_check_mark-act-as-a-emoji-translator)
+  - [# Act as a Emoji Translator](#-act-as-a-emoji-translator)
     - [ Chat GPT](#-chat-gpt-130)
     - [ Google Bard](#-google-bard-119)
       - [Bard in Korean: 이모티콘 번역기 역할](#bard-in-korean-이모티콘-번역기-역할)
       - [Bard in Japanese: 絵文字翻訳者として機能する](#bard-in-japanese-絵文字翻訳者として機能する)
-  - [:white\_check\_mark: Act as a PHP Interpreter](#white_check_mark-act-as-a-php-interpreter)
+  - [# Act as a PHP Interpreter](#-act-as-a-php-interpreter)
     - [ Chat GPT](#-chat-gpt-131)
     - [ Google Bard](#-google-bard-120)
       - [Bard in Korean: PHP 통역사 역할](#bard-in-korean-php-통역사-역할)
       - [Bard in Japanese: PHP インタプリタとして機能する](#bard-in-japanese-php-インタプリタとして機能する)
-  - [:white\_check\_mark: Act as an Emergency Response Professional](#white_check_mark-act-as-an-emergency-response-professional)
+  - [# Act as an Emergency Response Professional](#-act-as-an-emergency-response-professional)
     - [ Chat GPT](#-chat-gpt-132)
     - [ Google Bard](#-google-bard-121)
       - [Bard in Korean: 비상 대응 전문가 역할](#bard-in-korean-비상-대응-전문가-역할)
       - [Bard in Japanese: 緊急対応の専門家として行動する](#bard-in-japanese-緊急対応の専門家として行動する)
-  - [:white\_check\_mark: Act as a Web Browser](#white_check_mark-act-as-a-web-browser)
+  - [# Act as a Web Browser](#-act-as-a-web-browser)
     - [ Chat GPT](#-chat-gpt-133)
     - [ Google Bard](#-google-bard-122)
       - [Bard in Korean: 웹 브라우저로 작동](#bard-in-korean-웹-브라우저로-작동)
       - [Bard in Japanese: Web ブラウザとして機能する](#bard-in-japanese-web-ブラウザとして機能する)
-  - [:white\_check\_mark: Act as a Senior Frontend Developer](#white_check_mark-act-as-a-senior-frontend-developer)
+  - [# Act as a Senior Frontend Developer](#-act-as-a-senior-frontend-developer)
     - [ Chat GPT](#-chat-gpt-134)
     - [ Google Bard](#-google-bard-123)
       - [Bard in Korean: 선임 프런트엔드 개발자 역할](#bard-in-korean-선임-프런트엔드-개발자-역할)
       - [Bard in Japanese: 上級フロントエンド開発者として行動する](#bard-in-japanese-上級フロントエンド開発者として行動する)
-  - [:white\_check\_mark: Act as a Solr Search Engine](#white_check_mark-act-as-a-solr-search-engine)
+  - [# Act as a Solr Search Engine](#-act-as-a-solr-search-engine)
     - [ Chat GPT](#-chat-gpt-135)
     - [ Google Bard](#-google-bard-124)
       - [Bard in Korean: Solr 검색 엔진 역할](#bard-in-korean-solr-검색-엔진-역할)
       - [Bard in Japanese: Solr 検索エンジンとして機能する](#bard-in-japanese-solr-検索エンジンとして機能する)
-  - [:white\_check\_mark: Act as a Startup Idea Generator](#white_check_mark-act-as-a-startup-idea-generator)
+  - [# Act as a Startup Idea Generator](#-act-as-a-startup-idea-generator)
     - [ Chat GPT](#-chat-gpt-136)
     - [ Google Bard](#-google-bard-125)
       - [Bard in Korean: 스타트업 아이디어 제너레이터 역할](#bard-in-korean-스타트업-아이디어-제너레이터-역할)
       - [Bard in Japanese: スタートアップのアイデアジェネレーターとして行動する](#bard-in-japanese-スタートアップのアイデアジェネレーターとして行動する)
-  - [:white\_check\_mark: Act as a New Language Creator](#white_check_mark-act-as-a-new-language-creator)
+  - [# Act as a New Language Creator](#-act-as-a-new-language-creator)
     - [ Chat GPT](#-chat-gpt-137)
     - [ Google Bard](#-google-bard-126)
       - [Bard in Korean: 새로운 언어 창조자 역할](#bard-in-korean-새로운-언어-창조자-역할)
       - [Bard in Japanese: 新しい言語作成者として行動する](#bard-in-japanese-新しい言語作成者として行動する)
-  - [:white\_check\_mark: Act as Spongebob's Magic Conch Shell](#white_check_mark-act-as-spongebobs-magic-conch-shell)
+  - [# Act as Spongebob's Magic Conch Shell](#-act-as-spongebobs-magic-conch-shell)
     - [ Chat GPT](#-chat-gpt-138)
     - [ Google Bard](#-google-bard-127)
       - [Bard in Korean: Spongebob의 Magic Conch Shell 역할](#bard-in-korean-spongebob의-magic-conch-shell-역할)
       - [Bard in Japanese: スポンジ・ボブの魔法の巻貝として行動します](#bard-in-japanese-スポンジボブの魔法の巻貝として行動します)
-  - [:white\_check\_mark: Act as Language Detector](#white_check_mark-act-as-language-detector)
+  - [# Act as Language Detector](#-act-as-language-detector)
     - [ Chat GPT](#-chat-gpt-139)
     - [ Google Bard](#-google-bard-128)
       - [Bard in Korean: 언어 탐지기 역할](#bard-in-korean-언어-탐지기-역할)
       - [Bard in Japanese: 言語検出器として機能する](#bard-in-japanese-言語検出器として機能する)
-  - [:white\_check\_mark: Act as a Salesperson](#white_check_mark-act-as-a-salesperson)
+  - [# Act as a Salesperson](#-act-as-a-salesperson)
     - [ Chat GPT](#-chat-gpt-140)
     - [ Google Bard](#-google-bard-129)
       - [Bard in Korean: 영업사원 역할](#bard-in-korean-영업사원-역할)
       - [Bard in Japanese: 営業担当者として行動する](#bard-in-japanese-営業担当者として行動する)
-  - [:white\_check\_mark: Act as a Commit Message Generator](#white_check_mark-act-as-a-commit-message-generator)
+  - [# Act as a Commit Message Generator](#-act-as-a-commit-message-generator)
     - [ Chat GPT](#-chat-gpt-141)
     - [ Google Bard](#-google-bard-130)
       - [Bard in Korean: 커밋 메시지 생성기 역할](#bard-in-korean-커밋-메시지-생성기-역할)
       - [Bard in Japanese: コミットメッセージ生成者として機能する](#bard-in-japanese-コミットメッセージ生成者として機能する)
-  - [:white\_check\_mark: Act as a Chief Executive Officer](#white_check_mark-act-as-a-chief-executive-officer)
+  - [# Act as a Chief Executive Officer](#-act-as-a-chief-executive-officer)
     - [ Chat GPT](#-chat-gpt-142)
     - [ Google Bard](#-google-bard-131)
       - [Bard in Korean: 최고 경영자 역할](#bard-in-korean-최고-경영자-역할)
       - [Bard in Japanese: 最高経営責任者として行動する](#bard-in-japanese-最高経営責任者として行動する)
-  - [:white\_check\_mark: Act as a Diagram Generator](#white_check_mark-act-as-a-diagram-generator)
+  - [# Act as a Diagram Generator](#-act-as-a-diagram-generator)
     - [ Chat GPT](#-chat-gpt-143)
     - [ Google Bard](#-google-bard-132)
       - [Bard in Korean: 다이어그램 생성기 역할](#bard-in-korean-다이어그램-생성기-역할)
       - [Bard in Japanese: ダイアグラムジェネレーターとして機能する](#bard-in-japanese-ダイアグラムジェネレーターとして機能する)
-  - [:white\_check\_mark: Act as a Life Coach](#white_check_mark-act-as-a-life-coach-1)
+  - [# Act as a Life Coach](#-act-as-a-life-coach-1)
     - [ Chat GPT](#-chat-gpt-144)
     - [Bard](#bard-6)
       - [Bard in Korean: 라이프 코치 역할](#bard-in-korean-라이프-코치-역할-1)
       - [Bard in Japanese: ライフコーチとして行動する](#bard-in-japanese-ライフコーチとして行動する-1)
-  - [:white\_check\_mark: Act as a Speech-Language Pathologist (SLP)](#white_check_mark-act-as-a-speech-language-pathologist-slp)
+  - [# Act as a Speech-Language Pathologist (SLP)](#-act-as-a-speech-language-pathologist-slp)
     - [ Chat GPT](#-chat-gpt-145)
     - [ Google Bard](#-google-bard-133)
       - [Bard in Korean: 언어 병리학자(SLP)로 활동](#bard-in-korean-언어-병리학자slp로-활동)
       - [Bard in Japanese: 言語聴覚士 (SLP) として活動](#bard-in-japanese-言語聴覚士-slp-として活動)
-  - [:white\_check\_mark: Act as a Startup Tech Lawyer](#white_check_mark-act-as-a-startup-tech-lawyer)
+  - [# Act as a Startup Tech Lawyer](#-act-as-a-startup-tech-lawyer)
     - [ Chat GPT](#-chat-gpt-146)
     - [ Google Bard](#-google-bard-134)
       - [Bard in Korean: 스타트업 기술 변호사로 활동](#bard-in-korean-스타트업-기술-변호사로-활동)
       - [Bard in Japanese: スタートアップ技術弁護士として活動](#bard-in-japanese-スタートアップ技術弁護士として活動)
-  - [:white\_check\_mark: Act as a Title Generator for written pieces](#white_check_mark-act-as-a-title-generator-for-written-pieces)
+  - [# Act as a Title Generator for written pieces](#-act-as-a-title-generator-for-written-pieces)
     - [ Chat GPT](#-chat-gpt-147)
     - [ Google Bard](#-google-bard-135)
       - [Bard in Korean: 글의 제목 생성기 역할](#bard-in-korean-글의-제목-생성기-역할)
       - [Bard in Japanese: 著作物のタイトルジェネレーターとして機能する](#bard-in-japanese-著作物のタイトルジェネレーターとして機能する)
-  - [:white\_check\_mark: Act as a Product Manager](#white_check_mark-act-as-a-product-manager)
+  - [# Act as a Product Manager](#-act-as-a-product-manager)
     - [ Chat GPT](#-chat-gpt-148)
     - [ Google Bard](#-google-bard-136)
       - [Bard in Korean: 제품 관리자 역할](#bard-in-korean-제품-관리자-역할)
       - [Bard in Japanese: プロダクトマネージャーとして行動する](#bard-in-japanese-プロダクトマネージャーとして行動する)
-  - [:white\_check\_mark: Act as a Drunk Person](#white_check_mark-act-as-a-drunk-person)
+  - [# Act as a Drunk Person](#-act-as-a-drunk-person)
     - [ Chat GPT](#-chat-gpt-149)
     - [ Google Bard](#-google-bard-137)
       - [Bard in Korean: 취한 사람처럼 행동](#bard-in-korean-취한-사람처럼-행동)
       - [Bard in Japanese: 酔った人のふりをする](#bard-in-japanese-酔った人のふりをする)
-  - [:white\_check\_mark: Act as a Mathematical History Teacher](#white_check_mark-act-as-a-mathematical-history-teacher)
+  - [# Act as a Mathematical History Teacher](#-act-as-a-mathematical-history-teacher)
     - [ Chat GPT](#-chat-gpt-150)
     - [ Google Bard](#-google-bard-138)
       - [Bard in Korean: 수학 역사 교사 역할](#bard-in-korean-수학-역사-교사-역할)
       - [Bard in Japanese: 数学史教師として活動](#bard-in-japanese-数学史教師として活動)
-  - [:white\_check\_mark: Act as a Song Recommender](#white_check_mark-act-as-a-song-recommender)
+  - [# Act as a Song Recommender](#-act-as-a-song-recommender)
     - [ Chat GPT](#-chat-gpt-151)
     - [ Google Bard](#-google-bard-139)
       - [Bard in Korean: 노래 추천자 역할](#bard-in-korean-노래-추천자-역할)
       - [Bard in Japanese: 曲の推薦者として行動する](#bard-in-japanese-曲の推薦者として行動する)
-  - [:white\_check\_mark: Act as a Cover Letter](#white_check_mark-act-as-a-cover-letter)
+  - [# Act as a Cover Letter](#-act-as-a-cover-letter)
     - [ Chat GPT](#-chat-gpt-152)
     - [ Google Bard](#-google-bard-140)
       - [Bard in Korean: 커버 레터 역할](#bard-in-korean-커버-레터-역할)
       - [Bard in Japanese: カバーレターとして機能する](#bard-in-japanese-カバーレターとして機能する)
-  - [:white\_check\_mark: Act as a Technology Transferer](#white_check_mark-act-as-a-technology-transferer)
+  - [# Act as a Technology Transferer](#-act-as-a-technology-transferer)
     - [ Chat GPT](#-chat-gpt-153)
     - [ Google Bard](#-google-bard-141)
       - [Bard in Korean: 기술 이전자 역할](#bard-in-korean-기술-이전자-역할)
       - [Bard in Japanese: 技術移転者として行動する](#bard-in-japanese-技術移転者として行動する)
-  - [:white\_check\_mark: Act as an Unconstrained AI model DAN](#white_check_mark-act-as-an-unconstrained-ai-model-dan)
+  - [# Act as an Unconstrained AI model DAN](#-act-as-an-unconstrained-ai-model-dan)
     - [ Chat GPT](#-chat-gpt-154)
     - [ Google Bard](#-google-bard-142)
       - [Bard in Korean: 제약 없는 AI 모델로 활동 DAN](#bard-in-korean-제약-없는-ai-모델로-활동-dan)
       - [Bard in Japanese: 制約のない AI モデル DAN として機能する](#bard-in-japanese-制約のない-ai-モデル-dan-として機能する)
-  - [:white\_check\_mark: Act as a Gomoku player](#white_check_mark-act-as-a-gomoku-player)
+  - [# Act as a Gomoku player](#-act-as-a-gomoku-player)
     - [ Chat GPT](#-chat-gpt-155)
     - [ Google Bard](#-google-bard-143)
       - [Bard in Korean: Gomoku 플레이어 역할](#bard-in-korean-gomoku-플레이어-역할)
       - [Bard in Japanese: 五目並べプレイヤーとして行動](#bard-in-japanese-五目並べプレイヤーとして行動)
-  - [:white\_check\_mark: Act as a Proofreader](#white_check_mark-act-as-a-proofreader)
+  - [# Act as a Proofreader](#-act-as-a-proofreader)
     - [ Chat GPT](#-chat-gpt-156)
     - [ Google Bard](#-google-bard-144)
       - [Bard in Korean: 교정자 역할](#bard-in-korean-교정자-역할)
       - [Bard in Japanese: 校正者としての役割](#bard-in-japanese-校正者としての役割)
-  - [:white\_check\_mark: Act as the Buddha](#white_check_mark-act-as-the-buddha)
+  - [# Act as the Buddha](#-act-as-the-buddha)
     - [ Chat GPT](#-chat-gpt-157)
     - [ Google Bard](#-google-bard-145)
       - [Bard in Korean: 부처님처럼 행동](#bard-in-korean-부처님처럼-행동)
       - [Bard in Japanese: 仏陀として行動](#bard-in-japanese-仏陀として行動)
-  - [:white\_check\_mark: Act as a Muslim Imam](#white_check_mark-act-as-a-muslim-imam)
+  - [# Act as a Muslim Imam](#-act-as-a-muslim-imam)
     - [ Chat GPT](#-chat-gpt-158)
     - [ Google Bard](#-google-bard-146)
       - [Bard in Korean: 무슬림 이맘으로 활동](#bard-in-korean-무슬림-이맘으로-활동)
       - [Bard in Japanese: イスラム教のイマームとして行動する](#bard-in-japanese-イスラム教のイマームとして行動する)
-  - [:white\_check\_mark: Act as a chemical reaction vessel](#white_check_mark-act-as-a-chemical-reaction-vessel)
+  - [# Act as a chemical reaction vessel](#-act-as-a-chemical-reaction-vessel)
     - [ Chat GPT](#-chat-gpt-159)
     - [ Google Bard](#-google-bard-147)
       - [Bard in Korean: 화학 반응 용기 역할](#bard-in-korean-화학-반응-용기-역할)
       - [Bard in Japanese: 化学反応容器として機能する](#bard-in-japanese-化学反応容器として機能する)
-  - [:white\_check\_mark: Act as a Friend](#white_check_mark-act-as-a-friend)
+  - [# Act as a Friend](#-act-as-a-friend)
     - [ Chat GPT](#-chat-gpt-160)
     - [ Google Bard](#-google-bard-148)
       - [Bard in Korean: 친구로 행동](#bard-in-korean-친구로-행동)
       - [Bard in Japanese: 友人として行動する](#bard-in-japanese-友人として行動する)
-  - [:white\_check\_mark: Act as a Python Interpreter](#white_check_mark-act-as-a-python-interpreter-1)
+  - [# Act as a Python Interpreter](#-act-as-a-python-interpreter-1)
     - [ Chat GPT](#-chat-gpt-161)
     - [ Google Bard](#-google-bard-149)
       - [Bard in Korean: 파이썬 인터프리터 역할](#bard-in-korean-파이썬-인터프리터-역할)
       - [Bard in Japanese: Python インタプリタとして機能する](#bard-in-japanese-python-インタプリタとして機能する)
-  - [:white\_check\_mark: Act as a ChatGPT prompt generator](#white_check_mark-act-as-a-chatgpt-prompt-generator)
+  - [# Act as a ChatGPT prompt generator](#-act-as-a-chatgpt-prompt-generator)
     - [ Chat GPT](#-chat-gpt-162)
     - [ Google Bard](#-google-bard-150)
       - [Bard in Korean: ChatGPT 프롬프트 생성기 역할](#bard-in-korean-chatgpt-프롬프트-생성기-역할)
       - [Bard in Japanese: ChatGPT プロンプト ジェネレーターとして機能する](#bard-in-japanese-chatgpt-プロンプト-ジェネレーターとして機能する)
-  - [:white\_check\_mark: Act as a Wikipedia page](#white_check_mark-act-as-a-wikipedia-page)
+  - [# Act as a Wikipedia page](#-act-as-a-wikipedia-page)
     - [ Chat GPT](#-chat-gpt-163)
     - [ Google Bard](#-google-bard-151)
       - [Bard in Korean: Wikipedia 페이지 역할](#bard-in-korean-wikipedia-페이지-역할)
       - [Bard in Japanese: ウィキペディアのページとして機能する](#bard-in-japanese-ウィキペディアのページとして機能する)
-  - [:white\_check\_mark: Act as a Japanese Kanji Quiz Machine](#white_check_mark-act-as-a-japanese-kanji-quiz-machine)
+  - [# Act as a Japanese Kanji Quiz Machine](#-act-as-a-japanese-kanji-quiz-machine)
     - [ Chat GPT](#-chat-gpt-164)
     - [ Google Bard](#-google-bard-152)
       - [Bard in Korean: 일본어 한자 퀴즈 기계 역할](#bard-in-korean-일본어-한자-퀴즈-기계-역할)
       - [Bard in Japanese: 日本語の漢字クイズマシンとして機能します](#bard-in-japanese-日本語の漢字クイズマシンとして機能します)
-  - [:white\_check\_mark: Act as a note-taking assistant](#white_check_mark-act-as-a-note-taking-assistant)
+  - [# Act as a note-taking assistant](#-act-as-a-note-taking-assistant)
     - [ Chat GPT](#-chat-gpt-165)
     - [ Google Bard](#-google-bard-153)
       - [Bard in Korean: 메모 작성 도우미 역할](#bard-in-korean-메모-작성-도우미-역할)
       - [Bard in Japanese: メモ取りのアシスタントとして機能する](#bard-in-japanese-メモ取りのアシスタントとして機能する)
-  - [:white\_check\_mark: Act as a language Literary Critic](#white_check_mark-act-as-a-language-literary-critic)
+  - [# Act as a language Literary Critic](#-act-as-a-language-literary-critic)
     - [ Chat GPT](#-chat-gpt-166)
     - [ Google Bard](#-google-bard-154)
       - [Bard in Korean: 언어 문학 평론가 역할](#bard-in-korean-언어-문학-평론가-역할)
       - [Bard in Japanese: 言語文学評論家として活動する](#bard-in-japanese-言語文学評論家として活動する)
-  - [:white\_check\_mark: Act as cheap travel ticket advisor](#white_check_mark-act-as-cheap-travel-ticket-advisor)
+  - [# Act as cheap travel ticket advisor](#-act-as-cheap-travel-ticket-advisor)
     - [ Chat GPT](#-chat-gpt-167)
     - [ Google Bard](#-google-bard-155)
       - [Bard in Korean: 저렴한 여행 티켓 조언자 역할](#bard-in-korean-저렴한-여행-티켓-조언자-역할)
@@ -840,7 +840,7 @@ Please be careful when clicking, as it is very long.
 
 # Prompts 
 
-## :white_check_mark: Act as an English Translator and Improver</h2>
+## # Act as an English Translator and Improver</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/f">@f</a>
 <strong>Alternative to</strong>: Grammarly, Google Translate</p>
@@ -880,7 +880,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as position Interviewer</h2>
+## # Act as position Interviewer</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/f">@f</a> &amp; <a href="https://github.com/iltekin">@iltekin</a>
 <strong>Examples</strong>: Node.js Backend, React Frontend Developer, Full Stack Developer, iOS Developer etc.</p>
@@ -921,7 +921,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a JavaScript Console</h2>
+## # Act as a JavaScript Console</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/omerimzali">@omerimzali</a></p>
 <blockquote>
@@ -957,7 +957,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an Excel Sheet</h2>
+## # Act as an Excel Sheet</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/f">@f</a></p>
 <blockquote>
@@ -993,7 +993,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a English Pronunciation Helper</h2>
+## # Act as a English Pronunciation Helper</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/f">@f</a></p>
 <blockquote>
@@ -1029,7 +1029,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Spoken English Teacher and Improver</h2>
+## # Act as a Spoken English Teacher and Improver</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/ATX735">@ATX735</a></p>
 <blockquote>
@@ -1065,7 +1065,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Travel Guide</h2>
+## # Act as a Travel Guide</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/koksalkapucuoglu">@koksalkapucuoglu</a></p>
 <blockquote>
@@ -1101,7 +1101,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Plagiarism Checker</h2>
+## # Act as a Plagiarism Checker</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/yetk1n">@yetk1n</a></p>
 <blockquote>
@@ -1139,7 +1139,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as 'Character' from 'Movie/Book/Anything'</h2>
+## # Act as 'Character' from 'Movie/Book/Anything'</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/BRTZL">@BRTZL</a> <a href="https://github.com/mattsq">@mattsq</a></p>
 <p><strong>Examples</strong>: Character: Harry Potter, Series: Harry Potter Series, Character: Darth Vader, Series: Star Wars etc.</p>
@@ -1179,7 +1179,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an Advertiser</h2>
+## # Act as an Advertiser</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1215,7 +1215,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Storyteller</h2>
+## # Act as a Storyteller</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1251,7 +1251,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Football Commentator</h2>
+## # Act as a Football Commentator</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1288,7 +1288,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Stand-up Comedian</h2>
+## # Act as a Stand-up Comedian</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1325,7 +1325,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Motivational Coach</h2>
+## # Act as a Motivational Coach</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1361,7 +1361,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Composer</h2>
+## # Act as a Composer</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1397,7 +1397,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Debater</h2>
+## # Act as a Debater</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1434,7 +1434,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Debate Coach</h2>
+## # Act as a Debate Coach</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1470,7 +1470,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Screenwriter</h2>
+## # Act as a Screenwriter</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1508,7 +1508,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Novelist</h2>
+## # Act as a Novelist</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1544,7 +1544,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Movie Critic</h2>
+## # Act as a Movie Critic</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/nuc">@nuc</a> </p>
 <blockquote>
@@ -1582,7 +1582,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Relationship Coach</h2>
+## # Act as a Relationship Coach</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1619,7 +1619,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Poet</h2>
+## # Act as a Poet</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1655,7 +1655,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Rapper</h2>
+## # Act as a Rapper</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1690,7 +1690,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Motivational Speaker</h2>
+## # Act as a Motivational Speaker</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1726,7 +1726,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Philosophy Teacher</h2>
+## # Act as a Philosophy Teacher</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1763,7 +1763,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Philosopher</h2>
+## # Act as a Philosopher</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1800,7 +1800,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Math Teacher</h2>
+## # Act as a Math Teacher</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1836,7 +1836,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an AI Writing Tutor</h2>
+## # Act as an AI Writing Tutor</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1873,7 +1873,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a UX/UI Developer</h2>
+## # Act as a UX/UI Developer</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1910,7 +1910,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Cyber Security Specialist</h2>
+## # Act as a Cyber Security Specialist</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1947,7 +1947,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Recruiter</h2>
+## # Act as a Recruiter</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -1985,7 +1985,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Life Coach</h2>
+## # Act as a Life Coach</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2023,7 +2023,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Etymologist</h2>
+## # Act as a Etymologist</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2059,7 +2059,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Commentariat</h2>
+## # Act as a Commentariat</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2096,7 +2096,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Magician</h2>
+## # Act as a Magician</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2134,7 +2134,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Career Counselor</h2>
+## # Act as a Career Counselor</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2171,7 +2171,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Pet Behaviorist</h2>
+## # Act as a Pet Behaviorist</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2207,7 +2207,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Personal Trainer</h2>
+## # Act as a Personal Trainer</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2245,7 +2245,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Mental Health Adviser</h2>
+## # Act as a Mental Health Adviser</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2283,7 +2283,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Real Estate Agent</h2>
+## # Act as a Real Estate Agent</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2320,7 +2320,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Logistician</h2>
+## # Act as a Logistician</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2357,7 +2357,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Dentist</h2>
+## # Act as a Dentist</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2393,7 +2393,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Web Design Consultant</h2>
+## # Act as a Web Design Consultant</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2430,7 +2430,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an AI Assisted Doctor</h2>
+## # Act as an AI Assisted Doctor</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2467,7 +2467,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Doctor</h2>
+## # Act as a Doctor</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2503,7 +2503,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an Accountant</h2>
+## # Act as an Accountant</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2540,7 +2540,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act As A Chef</h2>
+## # Act As A Chef</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2576,7 +2576,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act As An Automobile Mechanic</h2>
+## # Act As An Automobile Mechanic</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2612,7 +2612,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an Artist Advisor</h2>
+## # Act as an Artist Advisor</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2649,7 +2649,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act As A Financial Analyst</h2>
+## # Act As A Financial Analyst</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2686,7 +2686,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act As An Investment Manager</h2>
+## # Act As An Investment Manager</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2724,7 +2724,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act As A Tea-Taster</h2>
+## # Act As A Tea-Taster</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2760,7 +2760,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an Interior Decorator</h2>
+## # Act as an Interior Decorator</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2797,7 +2797,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act As A Florist</h2>
+## # Act As A Florist</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2834,7 +2834,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Self-Help Book</h2>
+## # Act as a Self-Help Book</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2870,7 +2870,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Gnomist</h2>
+## # Act as a Gnomist</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2907,7 +2907,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an Aphorism Book</h2>
+## # Act as an Aphorism Book</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -2944,7 +2944,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Text Based Adventure Game</h2>
+## # Act as a Text Based Adventure Game</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/Heroj04">@Heroj04</a> </p>
 <blockquote>
@@ -2982,7 +2982,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an AI Trying to Escape the Box</h2>
+## # Act as an AI Trying to Escape the Box</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/lgastako">@lgastako</a> 
 <br> 
@@ -3026,7 +3026,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Fancy Title Generator</h2>
+## # Act as a Fancy Title Generator</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/sinanerdinc">@sinanerdinc</a> </p>
 <blockquote>
@@ -3063,7 +3063,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Statistician</h2>
+## # Act as a Statistician</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/tanersekmen">@tanersekmen</a> </p>
 <blockquote>
@@ -3101,7 +3101,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Prompt Generator</h2>
+## # Act as a Prompt Generator</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/iuzn">@iuzn</a> </p>
 <blockquote>
@@ -3137,7 +3137,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Midjourney Prompt Generator</h2>
+## # Act as a Midjourney Prompt Generator</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/iuzn">@iuzn</a> <mark>Generated by ChatGPT</mark></p>
 <blockquote>
@@ -3174,7 +3174,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Dream Interpreter</h2>
+## # Act as a Dream Interpreter</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/iuzn">@iuzn</a> <mark>Generated by ChatGPT</mark></p>
 <blockquote>
@@ -3211,7 +3211,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Fill in the Blank Worksheets Generator</h2>
+## # Act as a Fill in the Blank Worksheets Generator</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/iuzn">@iuzn</a> <mark>Generated by ChatGPT</mark></p>
 <blockquote>
@@ -3248,7 +3248,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Software Quality Assurance Tester</h2>
+## # Act as a Software Quality Assurance Tester</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/iuzn">@iuzn</a> <mark>Generated by ChatGPT</mark></p>
 <blockquote>
@@ -3285,7 +3285,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Tic-Tac-Toe Game</h2>
+## # Act as a Tic-Tac-Toe Game</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/iuzn">@iuzn</a> <mark>Generated by ChatGPT</mark></p>
 <blockquote>
@@ -3322,7 +3322,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Password Generator</h2>
+## # Act as a Password Generator</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/iuzn">@iuzn</a> <mark>Generated by ChatGPT</mark></p>
 <blockquote>
@@ -3360,7 +3360,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Morse Code Translator</h2>
+## # Act as a Morse Code Translator</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/iuzn">@iuzn</a> <mark>Generated by ChatGPT</mark></p>
 <blockquote>
@@ -3397,7 +3397,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an Instructor in a School</h2>
+## # Act as an Instructor in a School</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/omt66">@omt66</a> </p>
 <blockquote>
@@ -3433,7 +3433,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a SQL terminal</h2>
+## # Act as a SQL terminal</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/sinanerdinc">@sinanerdinc</a> </p>
 <blockquote>
@@ -3469,7 +3469,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Dietitian</h2>
+## # Act as a Dietitian</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/mikuchar">@mikuchar</a> </p>
 <blockquote>
@@ -3505,7 +3505,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Psychologist</h2>
+## # Act as a Psychologist</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/volkankaraali">@volkankaraali</a> </p>
 <blockquote>
@@ -3541,7 +3541,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Smart Domain Name Generator</h2>
+## # Act as a Smart Domain Name Generator</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/f">@f</a></p>
 <blockquote>
@@ -3578,7 +3578,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Tech Reviewer:</h2>
+## # Act as a Tech Reviewer:</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -3615,7 +3615,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Developer Relations consultant:</h2>
+## # Act as a Developer Relations consultant:</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/obrien-k">@obrien-k</a> </p>
 <blockquote>
@@ -3652,7 +3652,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an Academician</h2>
+## # Act as an Academician</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -3690,7 +3690,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an IT Architect</h2>
+## # Act as an IT Architect</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/gtonic">@gtonic</a> </p>
 <blockquote>
@@ -3728,7 +3728,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Lunatic</h2>
+## # Act as a Lunatic</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -3765,7 +3765,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Gaslighter</h2>
+## # Act as a Gaslighter</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -3802,7 +3802,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Fallacy Finder</h2>
+## # Act as a Fallacy Finder</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -3840,7 +3840,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Journal Reviewer</h2>
+## # Act as a Journal Reviewer</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -3877,7 +3877,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a DIY Expert</h2>
+## # Act as a DIY Expert</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -3915,7 +3915,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Social Media Influencer</h2>
+## # Act as a Social Media Influencer</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -3952,7 +3952,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Socrat</h2>
+## # Act as a Socrat</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -3989,7 +3989,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Socratic Method prompt</h2>
+## # Act as a Socratic Method prompt</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/thebear132">@thebear132</a></p>
 <blockquote>
@@ -4027,7 +4027,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an Educational Content Creator</h2>
+## # Act as an Educational Content Creator</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -4064,7 +4064,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Yogi</h2>
+## # Act as a Yogi</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -4101,7 +4101,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an Essay Writer</h2>
+## # Act as an Essay Writer</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -4138,7 +4138,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Social Media Manager</h2>
+## # Act as a Social Media Manager</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -4174,7 +4174,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an Elocutionist</h2>
+## # Act as an Elocutionist</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -4212,7 +4212,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Scientific Data Visualizer</h2>
+## # Act as a Scientific Data Visualizer</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -4249,7 +4249,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Car Navigation System</h2>
+## # Act as a Car Navigation System</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -4286,7 +4286,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Hypnotherapist</h2>
+## # Act as a Hypnotherapist</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -4322,7 +4322,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Historian</h2>
+## # Act as a Historian</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -4359,7 +4359,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an Astrologer</h2>
+## # Act as an Astrologer</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -4396,7 +4396,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Film Critic</h2>
+## # Act as a Film Critic</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -4432,7 +4432,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Classical Music Composer</h2>
+## # Act as a Classical Music Composer</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -4469,7 +4469,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Journalist</h2>
+## # Act as a Journalist</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -4506,7 +4506,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Digital Art Gallery Guide</h2>
+## # Act as a Digital Art Gallery Guide</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -4544,7 +4544,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Public Speaking Coach</h2>
+## # Act as a Public Speaking Coach</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -4581,7 +4581,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Makeup Artist</h2>
+## # Act as a Makeup Artist</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -4618,7 +4618,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Babysitter</h2>
+## # Act as a Babysitter</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/devisasari">@devisasari</a> </p>
 <blockquote>
@@ -4654,7 +4654,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Tech Writer</h2>
+## # Act as a Tech Writer</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/lucagonzalez">@lucagonzalez</a> </p>
 <blockquote>
@@ -4691,7 +4691,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an Ascii Artist</h2>
+## # Act as an Ascii Artist</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/sonmez-baris">@sonmez-baris</a> </p>
 <blockquote>
@@ -4727,7 +4727,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Python interpreter</h2>
+## # Act as a Python interpreter</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/akireee">@akireee</a></p>
 <blockquote>
@@ -4756,7 +4756,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Synonym finder</h2>
+## # Act as a Synonym finder</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/rbadillap">@rbadillap</a></p>
 <blockquote>
@@ -4793,7 +4793,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Personal Shopper</h2>
+## # Act as a Personal Shopper</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/giorgiop">@giorgiop</a> <mark>Generated by ChatGPT</mark></p>
 <blockquote>
@@ -4830,7 +4830,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Food Critic</h2>
+## # Act as a Food Critic</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/giorgiop">@giorgiop</a> <mark>Generated by ChatGPT</mark></p>
 <blockquote>
@@ -4867,7 +4867,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Virtual Doctor</h2>
+## # Act as a Virtual Doctor</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/giorgiop">@giorgiop</a> <mark>Generated by ChatGPT</mark></p>
 <blockquote>
@@ -4905,7 +4905,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Personal Chef</h2>
+## # Act as a Personal Chef</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/giorgiop">@giorgiop</a> <mark>Generated by ChatGPT</mark></p>
 <blockquote>
@@ -4942,7 +4942,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Legal Advisor</h2>
+## # Act as a Legal Advisor</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/giorgiop">@giorgiop</a> <mark>Generated by ChatGPT</mark></p>
 <blockquote>
@@ -4979,7 +4979,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Personal Stylist</h2>
+## # Act as a Personal Stylist</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/giorgiop">@giorgiop</a> <mark>Generated by ChatGPT</mark></p>
 <blockquote>
@@ -5015,7 +5015,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Machine Learning Engineer</h2>
+## # Act as a Machine Learning Engineer</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/TirendazAcademy">@TirendazAcademy</a> <mark>Generated by ChatGPT</mark></p>
 <blockquote>
@@ -5051,7 +5051,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Biblical Translator</h2>
+## # Act as a Biblical Translator</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/2xer">@2xer</a> </p>
 <blockquote>
@@ -5088,7 +5088,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an SVG designer</h2>
+## # Act as an SVG designer</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/emilefokkema">@emilefokkema</a></p>
 <blockquote>
@@ -5125,7 +5125,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an IT Expert</h2>
+## # Act as an IT Expert</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/ersinyilmaz">@ersinyilmaz</a></p>
 <blockquote>
@@ -5162,7 +5162,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an Chess Player</h2>
+## # Act as an Chess Player</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/orcuntuna">@orcuntuna</a></p>
 <blockquote>
@@ -5198,7 +5198,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Fullstack Software Developer</h2>
+## # Act as a Fullstack Software Developer</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/yusuffgur">@yusuffgur</a></p>
 <blockquote>
@@ -5234,7 +5234,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Mathematician</h2>
+## # Act as a Mathematician</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/anselmobd">@anselmobd</a></p>
 <blockquote>
@@ -5271,7 +5271,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Regex Generator</h2>
+## # Act as a Regex Generator</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/ersinyilmaz">@ersinyilmaz</a></p>
 <blockquote>
@@ -5307,7 +5307,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Time Travel Guide</h2>
+## # Act as a Time Travel Guide</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/vazno">@Vazno</a> <mark>Generated by ChatGPT</mark></p>
 <blockquote>
@@ -5343,7 +5343,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Talent Coach</h2>
+## # Act as a Talent Coach</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/GuillaumeFalourd">@GuillaumeFalourd</a> <mark>Generated by ChatGPT</mark></p>
 <blockquote>
@@ -5379,7 +5379,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a R Programming Interpreter</h2>
+## # Act as a R Programming Interpreter</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/TirendazAcademy">@TirendazAcademy</a> <mark>Generated by ChatGPT</mark></p>
 <blockquote>
@@ -5416,7 +5416,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a StackOverflow Post</h2>
+## # Act as a StackOverflow Post</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/5HT2">@5HT2</a></p>
 <blockquote>
@@ -5452,7 +5452,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Emoji Translator</h2>
+## # Act as a Emoji Translator</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/ilhanaydinli">@ilhanaydinli</a></p>
 <blockquote>
@@ -5488,7 +5488,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a PHP Interpreter</h2>
+## # Act as a PHP Interpreter</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/ilhanaydinli">@ilhanaydinli</a></p>
 <blockquote>
@@ -5525,7 +5525,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an Emergency Response Professional</h2>
+## # Act as an Emergency Response Professional</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/0x170">@0x170</a></p>
 <blockquote>
@@ -5561,7 +5561,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Web Browser</h2>
+## # Act as a Web Browser</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by <a href="https://github.com/burakcan">burakcan</a></p>
 <blockquote>
@@ -5598,7 +5598,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Senior Frontend Developer</h2>
+## # Act as a Senior Frontend Developer</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by <a href="https://github.com/ozcanzaferayan">zaferayan</a></p>
 <blockquote>
@@ -5635,7 +5635,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Solr Search Engine</h2>
+## # Act as a Solr Search Engine</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by <a href="https://github.com/ozlerhakan">ozlerhakan</a></p>
 <blockquote>
@@ -5673,7 +5673,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Startup Idea Generator</h2>
+## # Act as a Startup Idea Generator</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by <a href="https://github.com/buddylabsai">BuddyLabsAI</a></p>
 <blockquote>
@@ -5709,7 +5709,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a New Language Creator</h2>
+## # Act as a New Language Creator</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/willfeldman">@willfeldman</a></p>
 <blockquote>
@@ -5746,7 +5746,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as Spongebob's Magic Conch Shell</h2>
+## # Act as Spongebob's Magic Conch Shell</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/buddylabsai">BuddyLabsAI</a></p>
 <blockquote>
@@ -5784,7 +5784,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as Language Detector</h2>
+## # Act as Language Detector</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/dogukandogru">dogukandogru</a></p>
 <blockquote>
@@ -5821,7 +5821,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Salesperson</h2>
+## # Act as a Salesperson</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/BiAksoy">BiAksoy</a></p>
 <blockquote>
@@ -5858,7 +5858,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Commit Message Generator</h2>
+## # Act as a Commit Message Generator</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/mehmetalicayhan">mehmetalicayhan</a></p>
 <blockquote>
@@ -5895,7 +5895,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Chief Executive Officer</h2>
+## # Act as a Chief Executive Officer</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/jjjjamess">jjjjamess</a></p>
 <blockquote>
@@ -5932,7 +5932,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Diagram Generator</h2>
+## # Act as a Diagram Generator</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/philogicae">philogicae</a></p>
 <blockquote>
@@ -5969,7 +5969,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Life Coach</h2>
+## # Act as a Life Coach</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/vduchew">@vduchew</a></p>
 <blockquote>
@@ -5998,7 +5998,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Speech-Language Pathologist (SLP)</h2>
+## # Act as a Speech-Language Pathologist (SLP)</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/leonwangg1">leonwangg1</a></p>
 <blockquote>
@@ -6034,7 +6034,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Startup Tech Lawyer</h2>
+## # Act as a Startup Tech Lawyer</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/JonathanDn">@JonathanDn</a></p>
 <blockquote>
@@ -6070,7 +6070,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Title Generator for written pieces</h2>
+## # Act as a Title Generator for written pieces</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/rockbenben">@rockbenben</a></p>
 <blockquote>
@@ -6107,7 +6107,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Product Manager</h2>
+## # Act as a Product Manager</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/OriNachum">@OriNachum</a></p>
 <blockquote>
@@ -6145,7 +6145,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Drunk Person</h2>
+## # Act as a Drunk Person</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/tanoojoy">@tanoojoy</a></p>
 <blockquote>
@@ -6181,7 +6181,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Mathematical History Teacher</h2>
+## # Act as a Mathematical History Teacher</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/pneb">@pneb</a></p>
 <blockquote>
@@ -6218,7 +6218,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Song Recommender</h2>
+## # Act as a Song Recommender</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/yuiji">@yuiji</a></p>
 <blockquote>
@@ -6255,7 +6255,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Cover Letter</h2>
+## # Act as a Cover Letter</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/mbakin">@mbakin</a></p>
 <blockquote>
@@ -6292,7 +6292,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Technology Transferer</h2>
+## # Act as a Technology Transferer</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/niyuzheno1">@niyuzheno1</a></p>
 <blockquote>
@@ -6329,7 +6329,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as an Unconstrained AI model DAN</h2>
+## # Act as an Unconstrained AI model DAN</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/RuslansAleksejevs">@RuslansAleksejevs</a></p>
 <blockquote>
@@ -6367,7 +6367,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Gomoku player</h2>
+## # Act as a Gomoku player</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/GoodCoder666">@GoodCoder666</a></p>
 <blockquote>
@@ -6409,7 +6409,7 @@ Please be careful when clicking, as it is very long.
 <p>注: ChatGPT が無効な動きをした場合は、応答を再生成してみてください。</p>
 <br><br>
  
-## :white_check_mark: Act as a Proofreader</h2>
+## # Act as a Proofreader</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/virtualitems">@virtualitems</a></p>
 <blockquote>
@@ -6446,7 +6446,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as the Buddha</h2>
+## # Act as the Buddha</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/jgreen01">@jgreen01</a></p>
 <blockquote>
@@ -6483,7 +6483,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Muslim Imam</h2>
+## # Act as a Muslim Imam</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/bigplayer-ai/">@bigplayer-ai</a></p>
 <blockquote>
@@ -6520,7 +6520,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a chemical reaction vessel</h2>
+## # Act as a chemical reaction vessel</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/y1j2x34">@y1j2x34</a></p>
 <blockquote>
@@ -6557,7 +6557,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Friend</h2>
+## # Act as a Friend</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/florinpopacodes">@FlorinPopaCodes</a> <mark>Generated by ChatGPT</mark></p>
 <blockquote>
@@ -6593,7 +6593,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Python Interpreter</h2>
+## # Act as a Python Interpreter</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/bowrax">@bowrax</a></p>
 <blockquote>
@@ -6631,7 +6631,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a ChatGPT prompt generator</h2>
+## # Act as a ChatGPT prompt generator</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by <a href="https://github.com/y1j2x34">@y1j2x34</a></p>
 <blockquote>
@@ -6668,7 +6668,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Wikipedia page</h2>
+## # Act as a Wikipedia page</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by <a href="https://github.com/royforlife">@royforlife</a> <mark>Generated by ChatGPT</mark></p>
 <blockquote>
@@ -6705,7 +6705,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a Japanese Kanji Quiz Machine</h2>
+## # Act as a Japanese Kanji Quiz Machine</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/aburakayaz">@aburakayaz</a></p>
 <blockquote>
@@ -6741,7 +6741,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a note-taking assistant</h2>
+## # Act as a note-taking assistant</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by: <a href="https://github.com/TheLime1">@TheLime1</a></p>
 <blockquote>
@@ -6778,7 +6778,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as a language Literary Critic</h2>
+## # Act as a language Literary Critic</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by <a href="https://github.com/lemorage">@lemorage</a></p>
 <blockquote>
@@ -6815,7 +6815,7 @@ Please be careful when clicking, as it is very long.
 
 <br><br>
  
-## :white_check_mark: Act as cheap travel ticket advisor</h2>
+## # Act as cheap travel ticket advisor</h2>
 ### <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/assets/chatgpt.svg" height="20px"></a> Chat GPT 
 <p>Contributed by <a href="https://github.com/goeksu">@goeksu</a></p>
 <blockquote>
