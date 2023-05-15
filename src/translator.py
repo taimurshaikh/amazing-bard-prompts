@@ -1,3 +1,5 @@
+from googletrans import Translator
+
 def translate(text: str, lang: str):
     """Returns the text translated through the Google translation engine.
 
@@ -8,7 +10,6 @@ def translate(text: str, lang: str):
     :return: translated text
     :rtype: _type_
     """
-    from googletrans import Translator
     translator = Translator()
     translated = translator.translate(text, dest=lang)
     
